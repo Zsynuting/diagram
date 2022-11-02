@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T09:49:52.700Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fdR3vGBOKHbT3DL80XcS" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T10:00:01.720Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="VxV-m5zT0gMaHGry2F9E" version="20.5.1" type="github">
   <diagram id="-gdRt2dsjdJc-sZZEiDr" name="Page-1">
-    <mxGraphModel dx="3323" dy="1743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3351" dy="2207" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nXKrIPr9yyu7svm2SS0Z-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="-93" width="324" height="404" as="geometry" />
+        </mxCell>
         <mxCell id="nXKrIPr9yyu7svm2SS0Z-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nXKrIPr9yyu7svm2SS0Z-2" target="nXKrIPr9yyu7svm2SS0Z-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -41,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nXKrIPr9yyu7svm2SS0Z-19" value="Create Release branch&lt;br&gt;(feature/lcp-app)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="221" y="142" width="137" height="60" as="geometry" />
+          <mxGeometry x="205" y="142" width="137" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nXKrIPr9yyu7svm2SS0Z-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nXKrIPr9yyu7svm2SS0Z-20" target="nXKrIPr9yyu7svm2SS0Z-73">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nXKrIPr9yyu7svm2SS0Z-32" value="Test on PFB&lt;br&gt;(feature/lcp-app/shaoyingzhu_app_menu)" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="926" y="50" width="311" height="59" as="geometry" />
+          <mxGeometry x="926" y="50" width="316" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nXKrIPr9yyu7svm2SS0Z-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="nXKrIPr9yyu7svm2SS0Z-33" target="nXKrIPr9yyu7svm2SS0Z-38">
           <mxGeometry relative="1" as="geometry" />
@@ -153,6 +156,9 @@
         </mxCell>
         <mxCell id="nXKrIPr9yyu7svm2SS0Z-73" value="deploy to test" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1516" y="141" width="132" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="nXKrIPr9yyu7svm2SS0Z-80" value="On fe workbench, &lt;br&gt;create a feature branch, &lt;br&gt;pick the previous feature branch &lt;br&gt;as its target branch&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="409" y="-84" width="217" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
