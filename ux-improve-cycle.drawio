@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+        <mxGraphModel dx="1244" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="功能设计时&lt;br&gt;避免问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="功能使用中&lt;br&gt;发现问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="170" y="229.5" as="sourcePoint"/>
+                        <mxPoint x="250" y="229.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="解决问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="425" y="229.5" as="sourcePoint"/>
+                        <mxPoint x="515.5" y="229.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="670" y="229.5" as="sourcePoint"/>
+                        <mxPoint x="750" y="229.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="效果衡量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="770" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
