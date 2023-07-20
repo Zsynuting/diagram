@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T03:57:42.272Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tF_GbUZ_SAIQkPXDYQwp" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T06:32:48.827Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4hWoPn0qzXgOnzRkA2e-" version="21.6.1" type="github">
   <diagram name="Page-1" id="zMhFkTFcq4nP1bQZMF7s">
-    <mxGraphModel dx="5150" dy="3335" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2729" dy="3409" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,6 +232,39 @@
         </mxCell>
         <mxCell id="_0B7o2slm0ZhwUwVEMTE-130" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SDK&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;provide LCModule on window&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="1574.5" y="1721" width="178" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="_0B7o2slm0ZhwUwVEMTE-145" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="-1238" width="492" height="531" as="geometry" />
+        </mxCell>
+        <mxCell id="_0B7o2slm0ZhwUwVEMTE-146" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="753" y="-1239" width="628" height="529" as="geometry" />
+        </mxCell>
+        <mxCell id="_0B7o2slm0ZhwUwVEMTE-147" value="Git Based Schema Storage" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="802" y="-1049" width="247.75" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="_0B7o2slm0ZhwUwVEMTE-148" value="Static Schema Deployment" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="801" y="-1176" width="537.38" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="_0B7o2slm0ZhwUwVEMTE-149" value="DB Based Schema Storage" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="121" y="-993" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_0B7o2slm0ZhwUwVEMTE-150" value="DB Based Schema Deployment" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="121" y="-1130" width="222" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_0B7o2slm0ZhwUwVEMTE-151" value="Local Dev Mode(Single Branch)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1090.5" y="-1047" width="247.75" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="_0B7o2slm0ZhwUwVEMTE-152" value="Platform Dev Mode(Multi Branch)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1090.63" y="-924" width="247.75" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="_0B7o2slm0ZhwUwVEMTE-153" value="Platform Hosted App(current)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="259.5" y="-750" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_0B7o2slm0ZhwUwVEMTE-154" value="Self Hosted App(current)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="986.5" y="-755" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_0B7o2slm0ZhwUwVEMTE-155" value="Platform Dev Mode(Single Branch)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="368" y="-1051" width="198" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
