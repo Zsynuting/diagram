@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T09:53:45.951Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="E3M_btdD8YdAihS4Bw5A" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T10:15:07.500Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="T3Mp6yosf1dHSnj1Tx78" version="21.7.0" type="github">
   <diagram name="Page-1" id="CWonxZdYbPSpX683EtUu">
-    <mxGraphModel dx="2460" dy="1144" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2860" dy="1144" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,6 +193,63 @@
         </mxCell>
         <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-69" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="903" y="1095.75" width="141" height="61.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-71" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="2236" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zk6Aw7CoXd1dDJiNMtdf-71" target="Zk6Aw7CoXd1dDJiNMtdf-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="2276" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zk6Aw7CoXd1dDJiNMtdf-76" target="Zk6Aw7CoXd1dDJiNMtdf-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-76" value="read packages.json" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="2246" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zk6Aw7CoXd1dDJiNMtdf-78" target="Zk6Aw7CoXd1dDJiNMtdf-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-78" value="download dependencies" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2246" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zk6Aw7CoXd1dDJiNMtdf-80" target="Zk6Aw7CoXd1dDJiNMtdf-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-80" value="merge files to schema" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2246" width="131" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zk6Aw7CoXd1dDJiNMtdf-82" target="Zk6Aw7CoXd1dDJiNMtdf-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-82" value="check output path" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="416.5" y="2245.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zk6Aw7CoXd1dDJiNMtdf-84" target="Zk6Aw7CoXd1dDJiNMtdf-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="707" y="2436" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-84" value="copy schema &amp;amp; deps&lt;br&gt;&amp;nbsp;to output path" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616.5" y="2245.5" width="180.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zk6Aw7CoXd1dDJiNMtdf-86" target="Zk6Aw7CoXd1dDJiNMtdf-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-86" value="check publicPath" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="2406" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zk6Aw7CoXd1dDJiNMtdf-88" target="Zk6Aw7CoXd1dDJiNMtdf-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-88" value="provide URL prefix to&lt;br&gt;staticSchemaUrlGenerator" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103" y="2407" width="253.5" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="Zk6Aw7CoXd1dDJiNMtdf-90" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-219" y="2396.5" width="155.25" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
