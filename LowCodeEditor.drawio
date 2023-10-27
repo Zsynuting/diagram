@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T09:11:31.300Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="Khv2VkTf8YjrmbhDygci" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T09:16:00.461Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="HoAE-vcRGq4pz-ds_xdH" version="22.0.8" type="github">
   <diagram name="Page-1" id="e2JLk1qL8vQMvayinTc4">
-    <mxGraphModel>
+    <mxGraphModel dx="1228" dy="808" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k1KpRVm_ie_4Pg_-UaNB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76" y="269" width="843" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="k1KpRVm_ie_4Pg_-UaNB-2" value="Top Plugin Area" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="83" y="278" width="827" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="k1KpRVm_ie_4Pg_-UaNB-4" value="Left&lt;br&gt;Plugin&lt;br&gt;Area" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="83" y="317" width="37" height="352" as="geometry" />
+        </mxCell>
+        <mxCell id="k1KpRVm_ie_4Pg_-UaNB-5" value="Setter Area" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="745" y="317" width="165" height="352" as="geometry" />
+        </mxCell>
+        <mxCell id="k1KpRVm_ie_4Pg_-UaNB-6" value="Canvas" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="129" y="371" width="604" height="298" as="geometry" />
+        </mxCell>
+        <mxCell id="k1KpRVm_ie_4Pg_-UaNB-7" value="Tool Plugin Area" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="129" y="326" width="602" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
