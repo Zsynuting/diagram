@@ -1,9 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T06:22:53.425Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.8" etag="8ka0KRsq9clY_bMn4MPQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T06:38:44.746Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="l4ZINtYWhdO3x1BXk2LX" version="22.0.8" type="github">
   <diagram name="第 1 页" id="ZBBKYDuIlerTsr3Q6FEJ">
-    <mxGraphModel>
+    <mxGraphModel dx="2860" dy="1057" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="jNZ0BRla7mMMRP4NIAB--1" target="jNZ0BRla7mMMRP4NIAB--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--1" value="Render CodeEditor" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-592" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNZ0BRla7mMMRP4NIAB--2" target="jNZ0BRla7mMMRP4NIAB--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--2" value="add&amp;nbsp;navigable&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Marks to&lt;/span&gt;&amp;nbsp;token" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-359" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--4" value="markers is a concept of codemirror, it can &lt;br&gt;decorate line, gutter, token etc. adding a&lt;br&gt;maker to a token is basically adding some &lt;br&gt;class, html attribute to element." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="362" width="313" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNZ0BRla7mMMRP4NIAB--5" target="jNZ0BRla7mMMRP4NIAB--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--5" value="click token" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-156" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNZ0BRla7mMMRP4NIAB--7" target="jNZ0BRla7mMMRP4NIAB--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--7" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-156" y="89" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNZ0BRla7mMMRP4NIAB--9" target="jNZ0BRla7mMMRP4NIAB--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--9" value="check marker to&lt;br&gt;find corresponding&lt;br&gt;entity" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNZ0BRla7mMMRP4NIAB--11" target="jNZ0BRla7mMMRP4NIAB--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--19" value="Component" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jNZ0BRla7mMMRP4NIAB--14">
+          <mxGeometry x="-0.115" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNZ0BRla7mMMRP4NIAB--11" target="jNZ0BRla7mMMRP4NIAB--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--17" value="JSObject" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jNZ0BRla7mMMRP4NIAB--16">
+          <mxGeometry x="-0.2222" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--11" value="entityType" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="245" width="186" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNZ0BRla7mMMRP4NIAB--13" target="jNZ0BRla7mMMRP4NIAB--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--13" value="Navigate to page&lt;br&gt;and select Component" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="582" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jNZ0BRla7mMMRP4NIAB--15" target="jNZ0BRla7mMMRP4NIAB--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--15" value="Navigate to JSObject" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="297" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jNZ0BRla7mMMRP4NIAB--20" value="end" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="405" width="124" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
