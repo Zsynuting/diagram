@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T08:36:26.437Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VirPZOCkghpT4dtUPG5g" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T08:40:27.681Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BcE4Z9xuJ08VECi-JEIc" version="22.1.0" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
     <mxGraphModel dx="2060" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -27,8 +27,8 @@
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-13" value="The beta release branch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" vertex="1" parent="1">
           <mxGeometry x="88.25" y="426" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-14" value="The main branch&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="88.25" y="220" width="146.75" height="20" as="geometry" />
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-14" value="The shopee main branch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="88.25" y="220" width="189.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-16" value="" style="endArrow=classic;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -54,7 +54,7 @@
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-22" value="&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;Each tag represents a production release.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=11;fontStyle=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="94.5" y="158" width="120" height="38" as="geometry" />
         </mxCell>
-        <UserObject label="Shopee Low Code Engine Feature Dev Git-flow&quot; :" link="https://nvie.com/posts/a-successful-git-branching-model/" id="Fs9GSCr-eO8BMasJ_3ua-23">
+        <UserObject label="Shopee Low Code Engine Feature Dev Git-flow :" link="https://nvie.com/posts/a-successful-git-branching-model/" id="Fs9GSCr-eO8BMasJ_3ua-23">
           <mxCell style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
             <mxGeometry x="82.25" y="90" width="427.75" height="20" as="geometry" />
           </mxCell>
@@ -189,6 +189,188 @@
           <mxGeometry x="192.25" y="211" as="geometry">
             <mxPoint x="729.5" y="210.5" as="sourcePoint" />
             <mxPoint x="1137.25" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-75" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1502" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-76" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1128.75" y="1502" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;" edge="1" parent="1" target="Fs9GSCr-eO8BMasJ_3ua-75">
+          <mxGeometry x="192.25" y="211" as="geometry">
+            <mxPoint x="127.75" y="1517" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-78" value="main" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="66" y="1496" width="55.75" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-79" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="369.75" y="1707" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-80" value="shopee" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="68" y="1712" width="108" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-81" value="The shopee main branch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="66" y="1732" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-82" value="The main branch&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="66" y="1526" width="146.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-83" value="" style="endArrow=classic;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="281.75" y="1724" as="sourcePoint" />
+            <mxPoint x="344.75" y="1724" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-84" value="Tag: 1.1.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1476" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-85" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="530.75" y="1707" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Fs9GSCr-eO8BMasJ_3ua-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1486" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="1486" />
+              <mxPoint x="200" y="1486" />
+            </Array>
+            <mxPoint x="192.25" y="1486" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Shopee Low Code Engine Merge Ali Low Code Engine&amp;nbsp; Git-flow :" link="https://nvie.com/posts/a-successful-git-branching-model/" id="Fs9GSCr-eO8BMasJ_3ua-88">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+            <mxGeometry x="66" y="1229" width="561" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-89" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-75" target="Fs9GSCr-eO8BMasJ_3ua-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="244.5" y="1562" as="sourcePoint" />
+            <mxPoint x="394.5" y="1682" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="338.75" y="1517" />
+              <mxPoint x="338.75" y="1717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-90" value="checkout" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Fs9GSCr-eO8BMasJ_3ua-89">
+          <mxGeometry x="-0.0409" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-91" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-79" target="Fs9GSCr-eO8BMasJ_3ua-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559" y="1721.5" as="sourcePoint" />
+            <mxPoint x="619" y="1721.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-92" value="release/1.1.0-shopee" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="74.25" y="1922" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-93" value="The release branch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="72.25" y="1942" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-94" value="" style="endArrow=classic;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="258" y="1934" as="sourcePoint" />
+            <mxPoint x="777.75" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-95" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="1">
+          <mxGeometry x="861.75" y="1917" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-96" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="701.75" y="1707" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-97" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-85" target="Fs9GSCr-eO8BMasJ_3ua-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665.75" y="1721.5" as="sourcePoint" />
+            <mxPoint x="742.5" y="1722" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-98" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="1">
+          <mxGeometry x="986.75" y="1917" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-99" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-95" target="Fs9GSCr-eO8BMasJ_3ua-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1093" y="1931.5" as="sourcePoint" />
+            <mxPoint x="981.75" y="1932" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-100" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-76" target="Fs9GSCr-eO8BMasJ_3ua-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1322.75" y="1543" as="sourcePoint" />
+            <mxPoint x="1385.75" y="2209" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1073.75" y="1517" />
+              <mxPoint x="1073.75" y="1932" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-101" value="Merge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Fs9GSCr-eO8BMasJ_3ua-100">
+          <mxGeometry x="-0.0731" y="3" relative="1" as="geometry">
+            <mxPoint x="-2" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-102" value="lerna publish" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="677.25" y="1649" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-103" value="Tag: 1.0.0-shopeebeta.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="604.25" y="1675" width="197.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-104" value="implement feature&lt;br&gt;or fix bug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="487.25" y="1656" width="117" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-105" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="677.25" y="1502" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;" edge="1" parent="1" target="Fs9GSCr-eO8BMasJ_3ua-105">
+          <mxGeometry x="192.25" y="211" as="geometry">
+            <mxPoint x="270" y="1516.5" as="sourcePoint" />
+            <mxPoint x="381.75" y="1517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-107" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680.75" y="1517" as="sourcePoint" />
+            <mxPoint x="558.75" y="1721" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="588.75" y="1517" />
+              <mxPoint x="588.75" y="1721" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-108" value="cherry-pick" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Fs9GSCr-eO8BMasJ_3ua-107">
+          <mxGeometry x="0.0107" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-109" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-105" target="Fs9GSCr-eO8BMasJ_3ua-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="718.75" y="1532" as="sourcePoint" />
+            <mxPoint x="818.75" y="1732" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="787.75" y="1517" />
+              <mxPoint x="787.75" y="1932" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-110" value="checkout" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Fs9GSCr-eO8BMasJ_3ua-109">
+          <mxGeometry x="-0.0409" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-111" value="lerna publish" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="964.5" y="1846" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-112" value="Tag: 1.0.1-shopee.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="878.75" y="1874" width="197.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;" edge="1" parent="1" target="Fs9GSCr-eO8BMasJ_3ua-76">
+          <mxGeometry x="192.25" y="211" as="geometry">
+            <mxPoint x="707.25" y="1516.5" as="sourcePoint" />
+            <mxPoint x="1115" y="1517" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
