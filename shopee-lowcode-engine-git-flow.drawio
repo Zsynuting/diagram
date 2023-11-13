@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T11:17:01.452Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yEXpOCX7KDGQ08kMA-M8" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T11:22:30.014Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zsbN_RPBIS5nuxvNouB4" version="22.1.0" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
     <mxGraphModel dx="2060" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -391,7 +391,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-205" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1">
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-205" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1" target="Fs9GSCr-eO8BMasJ_3ua-250">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="956" y="2611.5" as="sourcePoint" />
             <mxPoint x="1222" y="2611.5" as="targetPoint" />
@@ -473,6 +473,23 @@
           <mxGeometry x="0.0107" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-250" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1238" y="2597" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-251" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-98" target="Fs9GSCr-eO8BMasJ_3ua-250">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1207" y="2798.5" as="sourcePoint" />
+            <mxPoint x="1302" y="2798.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-252" value="cherry-pick" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fs9GSCr-eO8BMasJ_3ua-251">
+          <mxGeometry x="0.1336" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-253" value="Tag: 1.0.3-shopee.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1154.25" y="2568" width="197.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
