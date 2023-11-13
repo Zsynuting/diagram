@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T11:00:52.533Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VhFFwMmq1GIfdaHC9i3Z" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T11:04:23.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JtRCdkUA3a3pjLxGH-5z" version="22.1.0" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
     <mxGraphModel dx="2060" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -156,7 +156,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-71" value="lerna publish" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1102" y="791" width="79" height="30" as="geometry" />
+          <mxGeometry x="1138.5" y="788" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry x="192.25" y="211" as="geometry">
@@ -412,24 +412,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-204" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1222" y="2597" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-205" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1" target="Fs9GSCr-eO8BMasJ_3ua-204">
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-205" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="956" y="2611.5" as="sourcePoint" />
-            <mxPoint x="1099" y="2611.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-206" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-98" target="Fs9GSCr-eO8BMasJ_3ua-204">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="801.5" y="2631.5" as="sourcePoint" />
-            <mxPoint x="1250" y="2640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-207" value="merge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Fs9GSCr-eO8BMasJ_3ua-206">
-          <mxGeometry x="0.127" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1222" y="2611.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-208" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
@@ -457,7 +443,7 @@
           <mxGeometry x="913.75" y="196" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-72" value="Tag: 1.0.1-shopee.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1031" y="827" width="197.5" height="20" as="geometry" />
+          <mxGeometry x="1079.25" y="826" width="197.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-221" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-57" target="Fs9GSCr-eO8BMasJ_3ua-208">
           <mxGeometry relative="1" as="geometry">
