@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T08:35:40.340Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xuMhCopDIS0DMBtOLo-3" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T08:36:26.437Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VirPZOCkghpT4dtUPG5g" version="22.1.0" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
     <mxGraphModel dx="2060" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-22" value="&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;Each tag represents a production release.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=11;fontStyle=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="94.5" y="158" width="120" height="38" as="geometry" />
         </mxCell>
-        <UserObject label="Shopee Low Code Engine &quot;Git-flow&quot; :" link="https://nvie.com/posts/a-successful-git-branching-model/" id="Fs9GSCr-eO8BMasJ_3ua-23">
+        <UserObject label="Shopee Low Code Engine Feature Dev Git-flow&quot; :" link="https://nvie.com/posts/a-successful-git-branching-model/" id="Fs9GSCr-eO8BMasJ_3ua-23">
           <mxCell style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
             <mxGeometry x="82.25" y="90" width="427.75" height="20" as="geometry" />
           </mxCell>
