@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T06:18:50.464Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TBTkVehwEYOHn4BcEzaX" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T06:20:49.005Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NkC_RLtJN2CRQ_KaCPCk" version="22.1.0" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
     <mxGraphModel dx="2060" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -154,8 +154,8 @@
             <mxPoint x="640.75" y="578.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xX_269JGH7gcu81mj2Xy-26" value="cherry-pick" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="641.9999999999998" y="623.9975100219124" as="geometry" />
+        <mxCell id="xX_269JGH7gcu81mj2Xy-26" value="cherry-pick" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="707.9999999999998" y="625.9975100219124" as="geometry" />
         </mxCell>
         <mxCell id="xX_269JGH7gcu81mj2Xy-28" value="lerna publish" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740.5" y="491" width="79" height="30" as="geometry" />
@@ -223,6 +223,11 @@
               <mxPoint x="1304" y="209" />
               <mxPoint x="1304" y="913" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xX_269JGH7gcu81mj2Xy-47" value="Merge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="xX_269JGH7gcu81mj2Xy-45">
+          <mxGeometry x="-0.0731" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
