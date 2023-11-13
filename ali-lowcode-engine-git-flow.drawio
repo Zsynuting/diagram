@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T06:21:34.177Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tBTQmQgr7RITgPm2c-CQ" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T07:12:49.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ySqAFl5bD0Atp-qksnE1" version="22.1.0" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
     <mxGraphModel dx="2060" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
         <mxCell id="xX_269JGH7gcu81mj2Xy-28" value="lerna publish" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740.5" y="491" width="79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xX_269JGH7gcu81mj2Xy-29" value="release/1.0.1-beta" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="xX_269JGH7gcu81mj2Xy-29" value="release/1.0.1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="90.25" y="903" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xX_269JGH7gcu81mj2Xy-30" value="The release branch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" vertex="1" parent="1">
