@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T11:22:30.014Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zsbN_RPBIS5nuxvNouB4" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T11:36:58.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yIzBCBYd7W2BwY8dW6hi" version="22.1.0" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
     <mxGraphModel dx="2060" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -51,9 +51,9 @@
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-22" value="&lt;span style=&quot;text-align: center; font-size: 11px;&quot;&gt;Each tag represents a production release.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=11;fontStyle=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="94.5" y="158" width="120" height="38" as="geometry" />
         </mxCell>
-        <UserObject label="Shopee Low Code Engine Feature Dev Git-flow :" link="https://nvie.com/posts/a-successful-git-branching-model/" id="Fs9GSCr-eO8BMasJ_3ua-23">
+        <UserObject label="Shopee Low Code Engine Feature Dev Git-flow :" id="Fs9GSCr-eO8BMasJ_3ua-23">
           <mxCell style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-            <mxGeometry x="82.25" y="90" width="427.75" height="20" as="geometry" />
+            <mxGeometry x="82.25" y="90" width="427.75" height="25" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-2" target="Fs9GSCr-eO8BMasJ_3ua-6">
@@ -144,10 +144,10 @@
           <mxGeometry x="931" y="797" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-80" value="shopee" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="77.25" y="2602" width="108" height="20" as="geometry" />
+          <mxGeometry x="77.25" y="2467" width="108" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-81" value="The shopee main branch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="75.25" y="2622" width="240" height="20" as="geometry" />
+          <mxGeometry x="75.25" y="2487" width="240" height="20" as="geometry" />
         </mxCell>
         <UserObject label="Shopee Low Code Engine Merge Ali Low Code Engine&amp;nbsp; Git-flow :" link="https://nvie.com/posts/a-successful-git-branching-model/" id="Fs9GSCr-eO8BMasJ_3ua-88">
           <mxCell style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
@@ -156,42 +156,12 @@
         </UserObject>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-91" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-190" target="Fs9GSCr-eO8BMasJ_3ua-191">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="404" y="2612" as="sourcePoint" />
-            <mxPoint x="540" y="2612" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-92" value="release/1.1.0-shopee" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="84.38" y="2789" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-93" value="The release branch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="82.38" y="2809" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-94" value="" style="endArrow=classic;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="268.13" y="2801" as="sourcePoint" />
-            <mxPoint x="987" y="2797" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-95" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="1">
-          <mxGeometry x="1012" y="2786" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-98" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#36393d;fillColor=#ffff88;" vertex="1" parent="1">
-          <mxGeometry x="1137" y="2786" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-99" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-95" target="Fs9GSCr-eO8BMasJ_3ua-98">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1243.25" y="2800.5" as="sourcePoint" />
-            <mxPoint x="1132" y="2801" as="targetPoint" />
+            <mxPoint x="404" y="2477" as="sourcePoint" />
+            <mxPoint x="540" y="2477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-103" value="Tag: 1.0.0-shopee.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="667.75" y="2568" width="197.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-111" value="lerna publish" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1098.5" y="2732" width="79" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-112" value="Tag: 1.0.3-shopee.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="2759" width="197.5" height="20" as="geometry" />
+          <mxGeometry x="667.75" y="2433" width="197.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-142" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="249.25" y="1985" width="30" height="30" as="geometry" />
@@ -318,83 +288,72 @@
           <mxGeometry x="741" y="2311" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-184" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="249.25" y="2597" width="30" height="30" as="geometry" />
+          <mxGeometry x="249.25" y="2462" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-185" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry x="192.25" y="211" as="geometry">
-            <mxPoint x="139.25" y="2611.5" as="sourcePoint" />
-            <mxPoint x="251.25" y="2611.5" as="targetPoint" />
+            <mxPoint x="139.25" y="2476.5" as="sourcePoint" />
+            <mxPoint x="251.25" y="2476.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeWidth=4;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-184" target="Fs9GSCr-eO8BMasJ_3ua-190">
           <mxGeometry x="192.25" y="211" as="geometry">
-            <mxPoint x="149.25" y="2621.5" as="sourcePoint" />
-            <mxPoint x="379" y="2612" as="targetPoint" />
+            <mxPoint x="149.25" y="2486.5" as="sourcePoint" />
+            <mxPoint x="379" y="2477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-188" value="Tag: 1.0.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="227" y="2565" width="70" height="20" as="geometry" />
+          <mxGeometry x="227" y="2430" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-189" value="Tag: 1.0.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="352" y="2565" width="70" height="20" as="geometry" />
+          <mxGeometry x="352" y="2430" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-193" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Fs9GSCr-eO8BMasJ_3ua-190">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="404" y="2612" as="sourcePoint" />
-            <mxPoint x="540" y="2612" as="targetPoint" />
+            <mxPoint x="404" y="2477" as="sourcePoint" />
+            <mxPoint x="540" y="2477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-190" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="404" y="2597" width="30" height="30" as="geometry" />
+          <mxGeometry x="404" y="2462" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-194" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="Fs9GSCr-eO8BMasJ_3ua-191">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="2612" as="sourcePoint" />
-            <mxPoint x="711" y="2612" as="targetPoint" />
+            <mxPoint x="570" y="2477" as="sourcePoint" />
+            <mxPoint x="711" y="2477" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-191" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="577" y="2597" width="30" height="30" as="geometry" />
+          <mxGeometry x="577" y="2462" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-195" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="609" y="2611.5" as="sourcePoint" />
-            <mxPoint x="752" y="2611.5" as="targetPoint" />
+            <mxPoint x="609" y="2476.5" as="sourcePoint" />
+            <mxPoint x="752" y="2476.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-196" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="751.5" y="2597" width="30" height="30" as="geometry" />
+          <mxGeometry x="751.5" y="2462" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-197" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="926" y="2597" width="30" height="30" as="geometry" />
+          <mxGeometry x="926" y="2462" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-198" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="781.5" y="2611.5" as="sourcePoint" />
-            <mxPoint x="924.5" y="2611.5" as="targetPoint" />
+            <mxPoint x="781.5" y="2476.5" as="sourcePoint" />
+            <mxPoint x="924.5" y="2476.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-200" value="Tag: 1.0.1-shopee.2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="875" y="2565" width="142" height="20" as="geometry" />
+          <mxGeometry x="875" y="2430" width="142" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-201" value="Tag: 1.0.3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="557" y="2565" width="70" height="20" as="geometry" />
+          <mxGeometry x="557" y="2430" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-202" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-197" target="Fs9GSCr-eO8BMasJ_3ua-95">
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-205" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="791.5" y="2621.5" as="sourcePoint" />
-            <mxPoint x="934.5" y="2621.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-203" value="checkout" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Fs9GSCr-eO8BMasJ_3ua-202">
-          <mxGeometry x="-0.1184" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-205" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1" target="Fs9GSCr-eO8BMasJ_3ua-250">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="956" y="2611.5" as="sourcePoint" />
-            <mxPoint x="1222" y="2611.5" as="targetPoint" />
+            <mxPoint x="956" y="2476.5" as="sourcePoint" />
+            <mxPoint x="1124.25" y="2476.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-208" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
@@ -473,23 +432,6 @@
           <mxGeometry x="0.0107" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-250" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1238" y="2597" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-251" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Fs9GSCr-eO8BMasJ_3ua-98" target="Fs9GSCr-eO8BMasJ_3ua-250">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1207" y="2798.5" as="sourcePoint" />
-            <mxPoint x="1302" y="2798.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-252" value="cherry-pick" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fs9GSCr-eO8BMasJ_3ua-251">
-          <mxGeometry x="0.1336" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-253" value="Tag: 1.0.3-shopee.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1154.25" y="2568" width="197.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
