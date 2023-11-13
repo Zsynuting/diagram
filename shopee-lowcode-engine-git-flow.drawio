@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T11:36:58.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yIzBCBYd7W2BwY8dW6hi" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T11:38:00.969Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_0iD1JunRax7nuDX4ji_" version="22.1.0" type="github">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
     <mxGraphModel dx="2060" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -278,14 +278,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-181" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=50;endSize=8.33;width=46;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-181" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=81;endSize=18.67;width=68;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="2287" as="sourcePoint" />
-            <mxPoint x="640" y="2378" as="targetPoint" />
+            <mxPoint x="653" y="2264" as="sourcePoint" />
+            <mxPoint x="653" y="2381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-182" value="After Rebase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="741" y="2311" width="60" height="30" as="geometry" />
+        <mxCell id="Fs9GSCr-eO8BMasJ_3ua-302" value="Rebase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="Fs9GSCr-eO8BMasJ_3ua-181">
+          <mxGeometry x="-0.2527" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Fs9GSCr-eO8BMasJ_3ua-184" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="249.25" y="2462" width="30" height="30" as="geometry" />
