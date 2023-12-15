@@ -1,9 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T03:14:14.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.9" etag="sKBAQNLjU3VGqqKVLzlI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T04:05:54.807Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="37rFL-g1palkCmTzyc1u" version="22.1.9" type="github">
   <diagram name="第 1 页" id="VXXNobZHzKTX921IATJb">
-    <mxGraphModel>
+    <mxGraphModel dx="2860" dy="1566" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-34" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-274" width="691" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-9" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-190" width="304" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-1" target="M5j8Dbk3zstxQeXBC_h0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-473" y="227" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-15" target="M5j8Dbk3zstxQeXBC_h0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-2" target="M5j8Dbk3zstxQeXBC_h0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-2" value="read packages" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-242" y="237" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-4" target="M5j8Dbk3zstxQeXBC_h0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-4" target="M5j8Dbk3zstxQeXBC_h0-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518" y="-45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-4" value="remove window.define.amd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="237" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-6" value="&lt;h1&gt;Reason&lt;/h1&gt;&lt;p&gt;monaco-editor will add define method to window. will cause umd package can not be loaded&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="423" y="-170" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-7" value="remove window.define.amd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="237" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-10" target="M5j8Dbk3zstxQeXBC_h0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-10" target="M5j8Dbk3zstxQeXBC_h0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-10" value="reuse host lib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-42" y="237" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-13" value="&lt;h1&gt;Purpose&lt;/h1&gt;&lt;div&gt;make React/ReactDOM exists on window&lt;/div&gt;&lt;h1&gt;Reason&lt;/h1&gt;&lt;p&gt;1. React/ReactDOM may not be on window due to any reasons&lt;/p&gt;&lt;p&gt;2. Space register ReactDom on window, should correct it for materials&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-187.75" y="-209" width="411.5" height="291" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-15" target="M5j8Dbk3zstxQeXBC_h0-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237" y="167" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-15" target="M5j8Dbk3zstxQeXBC_h0-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-15" value="filter packages to load" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="158" y="237" width="158" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-123.5" y="498" width="721" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-22" target="M5j8Dbk3zstxQeXBC_h0-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-26" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M5j8Dbk3zstxQeXBC_h0-25">
+          <mxGeometry x="0.1409" y="3" relative="1" as="geometry">
+            <mxPoint x="1" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-22" target="M5j8Dbk3zstxQeXBC_h0-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-29" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M5j8Dbk3zstxQeXBC_h0-28">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-22" value="pkg in cache" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="537" width="169" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-24" target="M5j8Dbk3zstxQeXBC_h0-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-24" value="window[libraryName]=&lt;br&gt;cache.get(pkgName@version)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-98" y="669" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-27" value="do not filter pkg out" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159" y="669" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-30" value="filter pkg out" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-73" y="809" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-32" value="Foreach Package" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="503" width="113" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
