@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T04:12:52.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EjanTgRjDzCZnqyMraGi" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T04:15:50.272Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qTLlIimaA-TJb-eGgCQ1" version="22.1.9" type="github">
   <diagram name="第 1 页" id="VXXNobZHzKTX921IATJb">
     <mxGraphModel dx="3141" dy="1566" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="M5j8Dbk3zstxQeXBC_h0-34" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-792" y="-273.5" width="691" height="319" as="geometry" />
+          <mxGeometry x="-791" y="-178" width="691" height="319" as="geometry" />
         </mxCell>
         <mxCell id="M5j8Dbk3zstxQeXBC_h0-9" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-204" width="330" height="180" as="geometry" />
+          <mxGeometry x="340" y="-64" width="330" height="180" as="geometry" />
         </mxCell>
         <mxCell id="M5j8Dbk3zstxQeXBC_h0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-1" target="M5j8Dbk3zstxQeXBC_h0-10">
           <mxGeometry relative="1" as="geometry">
@@ -35,7 +35,7 @@
           <mxGeometry x="458" y="237" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M5j8Dbk3zstxQeXBC_h0-6" value="&lt;h1&gt;Reason&lt;/h1&gt;&lt;p&gt;monaco-editor will add define method to window. will cause umd package can not be loaded&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="423" y="-153" width="190" height="120" as="geometry" />
+          <mxGeometry x="423" y="-13" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="M5j8Dbk3zstxQeXBC_h0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-10" target="M5j8Dbk3zstxQeXBC_h0-13">
           <mxGeometry relative="1" as="geometry" />
@@ -49,7 +49,7 @@
           <mxGeometry x="-463" y="237" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M5j8Dbk3zstxQeXBC_h0-13" value="&lt;h1&gt;Purpose&lt;/h1&gt;&lt;div&gt;make React/ReactDOM exists on window&lt;/div&gt;&lt;h1&gt;Reason&lt;/h1&gt;&lt;p&gt;1. React/ReactDOM may not be on window due to any reasons&lt;/p&gt;&lt;p&gt;2. Space register ReactDom on window, should correct it for materials&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-609.75" y="-208.5" width="411.5" height="196" as="geometry" />
+          <mxGeometry x="-608.75" y="-113" width="411.5" height="196" as="geometry" />
         </mxCell>
         <mxCell id="M5j8Dbk3zstxQeXBC_h0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-15" target="M5j8Dbk3zstxQeXBC_h0-18">
           <mxGeometry relative="1" as="geometry" />
@@ -124,7 +124,7 @@
         <mxCell id="M5j8Dbk3zstxQeXBC_h0-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-46" target="M5j8Dbk3zstxQeXBC_h0-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M5j8Dbk3zstxQeXBC_h0-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-46" target="M5j8Dbk3zstxQeXBC_h0-49">
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-46" target="M5j8Dbk3zstxQeXBC_h0-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M5j8Dbk3zstxQeXBC_h0-46" value="cache pkg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -132,6 +132,29 @@
         </mxCell>
         <mxCell id="M5j8Dbk3zstxQeXBC_h0-49" value="cache.set(pkgName@version, window[libName]" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1292.5" y="416" width="326" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="769.5" y="-156" as="sourcePoint" />
+            <mxPoint x="316" y="577" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="769.5" y="186" />
+              <mxPoint x="673.5" y="186" />
+              <mxPoint x="673.5" y="577" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="M5j8Dbk3zstxQeXBC_h0-51" target="M5j8Dbk3zstxQeXBC_h0-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="771" y="82" />
+              <mxPoint x="1263" y="82" />
+              <mxPoint x="1263" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M5j8Dbk3zstxQeXBC_h0-51" value="LIB_CACHE&lt;br&gt;&amp;lt;pkgName@version, window[libName]&amp;gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="643" y="-339" width="256" height="183" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
