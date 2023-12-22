@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T08:34:21.417Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hii14oLBPDXGvruzXTHw" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T08:35:06.797Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dSiqdhl4dKoM4cWxK8x6" version="22.1.11" type="github">
   <diagram name="第 1 页" id="foYGR9R7QBZYM_IOSINY">
     <mxGraphModel dx="1660" dy="1055" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,6 +13,9 @@
               <mxPoint x="827" y="853" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-47" target="4FnhvvI2vXlfCGd2GcOM-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4FnhvvI2vXlfCGd2GcOM-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="877" y="804" width="1110" height="194" as="geometry" />
@@ -111,13 +114,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4FnhvvI2vXlfCGd2GcOM-34" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="501" y="861" width="120" height="80" as="geometry" />
+          <mxGeometry x="431" y="861" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4FnhvvI2vXlfCGd2GcOM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-36" target="4FnhvvI2vXlfCGd2GcOM-38">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-36" target="4FnhvvI2vXlfCGd2GcOM-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="867" y="903" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4FnhvvI2vXlfCGd2GcOM-36" value="Read Schema&lt;br&gt;to get all Data Sources" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="701" y="871" width="142" height="60" as="geometry" />
+          <mxGeometry x="631" y="871" width="142" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4FnhvvI2vXlfCGd2GcOM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-38" target="4FnhvvI2vXlfCGd2GcOM-42">
           <mxGeometry relative="1" as="geometry" />
@@ -137,9 +142,6 @@
         <mxCell id="4FnhvvI2vXlfCGd2GcOM-42" value="convert interface data to the type schema of &lt;br&gt;&#39;json-schema-to-typescript&#39;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1132" y="842" width="182" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="4FnhvvI2vXlfCGd2GcOM-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-44" target="4FnhvvI2vXlfCGd2GcOM-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4FnhvvI2vXlfCGd2GcOM-44" value="generate args type and return type of DataSource &lt;br&gt;load function" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1738" y="871" width="215" height="60" as="geometry" />
         </mxCell>
@@ -147,7 +149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4FnhvvI2vXlfCGd2GcOM-46" value="generate DataSourceMap and Data Source JSObject definitions by all the&amp;nbsp; &lt;br&gt;args types and return types" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2059" y="856" width="342" height="90" as="geometry" />
+          <mxGeometry x="882" y="1119" width="342" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4FnhvvI2vXlfCGd2GcOM-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Loop For Each Data Source&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="877" y="804" width="230" height="30" as="geometry" />
@@ -156,10 +158,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4FnhvvI2vXlfCGd2GcOM-50" value="use definition as JS and TS library (DataSource.d.ts)" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2481" y="856" width="342" height="90" as="geometry" />
+          <mxGeometry x="882" y="1261" width="342" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4FnhvvI2vXlfCGd2GcOM-53" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2903" y="861" width="120" height="80" as="geometry" />
+          <mxGeometry x="993" y="1403" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
