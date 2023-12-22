@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T08:40:34.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ri3gAwPbwOI54ApZIzBG" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T08:48:07.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jEkmAlvtMb7E2bBs-Ucw" version="22.1.11" type="github">
   <diagram name="第 1 页" id="foYGR9R7QBZYM_IOSINY">
     <mxGraphModel dx="1660" dy="1055" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,6 +207,55 @@
         </mxCell>
         <mxCell id="4FnhvvI2vXlfCGd2GcOM-71" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2237" y="1700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-73" target="4FnhvvI2vXlfCGd2GcOM-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-73" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="498.5" y="2039" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-75" target="4FnhvvI2vXlfCGd2GcOM-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-75" value="add cmd + leftClick event listener" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="669.5" y="2049" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1129.5" y="2079" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-77" value="get the definition of the clicked word&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="897.5" y="2039" width="169" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1311.5" y="2079" as="sourcePoint" />
+            <mxPoint x="1380.5" y="2079" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-88" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontStyle=1" vertex="1" connectable="0" parent="4FnhvvI2vXlfCGd2GcOM-80">
+          <mxGeometry x="-0.3184" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-83" target="4FnhvvI2vXlfCGd2GcOM-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-83" value="Save Current JSO" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1378" y="2049" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-85" target="4FnhvvI2vXlfCGd2GcOM-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-85" value="Open the clicked JSO" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1701" y="2049" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-86" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1998" y="2039" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-87" value="def from &#39;jsoId.d.ts&#39;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1127" y="2039" width="142" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
