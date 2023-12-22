@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T08:35:06.797Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dSiqdhl4dKoM4cWxK8x6" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T08:40:34.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ri3gAwPbwOI54ApZIzBG" version="22.1.11" type="github">
   <diagram name="第 1 页" id="foYGR9R7QBZYM_IOSINY">
     <mxGraphModel dx="1660" dy="1055" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,6 +162,51 @@
         </mxCell>
         <mxCell id="4FnhvvI2vXlfCGd2GcOM-53" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="993" y="1403" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-58" target="4FnhvvI2vXlfCGd2GcOM-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-58" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="1700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-60" target="4FnhvvI2vXlfCGd2GcOM-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-60" value="Read JSObject code" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="661" y="1710" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-62" target="4FnhvvI2vXlfCGd2GcOM-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-62" value="replace &#39;export default&#39; with &#39;const jsoId = &#39;&lt;br&gt;to get its typescript constant declaration" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="885" y="1680" width="169" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-64" target="4FnhvvI2vXlfCGd2GcOM-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-64" value="use the typescript builtin monaco-editor to compile the ts file to get its definition file" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1372" y="1710" width="275" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-66" target="4FnhvvI2vXlfCGd2GcOM-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-66" value="create a typescript file&lt;br&gt;&#39;jsoId.ts&#39;&lt;br&gt;in monaco-editor" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1121" y="1710" width="182" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-68" target="4FnhvvI2vXlfCGd2GcOM-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-68" value="enhance the ts type by add it&#39;s&amp;nbsp;syntactic sugar type" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1696" y="1710" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" edge="1" parent="1" source="4FnhvvI2vXlfCGd2GcOM-70" target="4FnhvvI2vXlfCGd2GcOM-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-70" value="use definition as JS and TS library (jsoId.d.ts)" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1969" y="1710" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4FnhvvI2vXlfCGd2GcOM-71" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2237" y="1700" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
