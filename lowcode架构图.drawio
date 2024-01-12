@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T02:43:43.606Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="G0fJrU7bUOCgwdmjinzR" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T02:44:48.359Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="scLFtnbZ7_IURyNOUG6N" version="22.1.18" type="github">
   <diagram name="第 1 页" id="Ru8qunhcTC8Fts-bk-nv">
     <mxGraphModel dx="2860" dy="1166" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="tGqpz7tcLyGyesHKDpgI-10" value="渲染器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-110" y="1189" width="228" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tGqpz7tcLyGyesHKDpgI-11" value="组件设置" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tGqpz7tcLyGyesHKDpgI-11" value="组件属性" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="125" y="1479" width="228" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tGqpz7tcLyGyesHKDpgI-12" value="组件" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
@@ -75,6 +75,18 @@
             <mxPoint x="473" y="1385" as="sourcePoint" />
             <mxPoint x="547.59" y="1447" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tGqpz7tcLyGyesHKDpgI-18" value="渲染器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-448" y="1623" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGqpz7tcLyGyesHKDpgI-19" value="组件" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-448" y="1772" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGqpz7tcLyGyesHKDpgI-20" value="组件设置" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-448" y="1931" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGqpz7tcLyGyesHKDpgI-21" value="子节点" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-448" y="2100" width="228" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
