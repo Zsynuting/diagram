@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T03:27:10.891Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZVNfBTCfSc6oZ-AAz6Sg" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T03:31:55.280Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="45MVqBJGZBb548uXtDBr" version="22.1.18" type="github">
   <diagram name="第 1 页" id="Ru8qunhcTC8Fts-bk-nv">
     <mxGraphModel dx="2860" dy="1966" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="-499" y="457" width="1101" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WdwnKccdSxa5qRJBsbH4-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="-499" y="274" width="695" height="60" as="geometry" />
+          <mxGeometry x="-499" y="274" width="817" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WdwnKccdSxa5qRJBsbH4-6" value="引擎层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-715" y="472" width="118" height="30" as="geometry" />
@@ -29,16 +29,16 @@
           <mxGeometry x="-711" y="289" width="118" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tGqpz7tcLyGyesHKDpgI-4" value="plugin" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-322" y="289" width="134" height="30" as="geometry" />
+          <mxGeometry x="-120" y="289" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tGqpz7tcLyGyesHKDpgI-5" value="setter" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-163" y="289" width="128" height="29" as="geometry" />
+          <mxGeometry x="26" y="289.5" width="128" height="29" as="geometry" />
         </mxCell>
         <mxCell id="tGqpz7tcLyGyesHKDpgI-6" value="低代码设计器&lt;br&gt;（lowcode-engine）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-497" y="289" width="157" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tGqpz7tcLyGyesHKDpgI-7" value="物料" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="289" width="128" height="29" as="geometry" />
+          <mxGeometry x="168" y="289.5" width="128" height="29" as="geometry" />
         </mxCell>
         <mxCell id="tGqpz7tcLyGyesHKDpgI-8" value="&lt;p style=&quot;line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 22pt; font-family: Arial, sans-serif; color: rgb(238, 77, 45); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;UI = React.createElement(component, props, children)&lt;/span&gt;&lt;p&gt;&lt;/p&gt;&lt;span id=&quot;docs-internal-guid-0cc672cc-7fff-4d5a-5a06-22df13a6e09c&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-364" y="1355" width="1094" height="30" as="geometry" />
@@ -208,6 +208,9 @@
         </mxCell>
         <mxCell id="tGqpz7tcLyGyesHKDpgI-57" value="low-code-sdk" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="383" y="-487" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tGqpz7tcLyGyesHKDpgI-58" value="画布" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-274" y="289" width="134" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
