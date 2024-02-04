@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T07:28:30.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Dgmdlc9rx0HWj0be5KnO" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-04T07:31:13.540Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SNrB6UtKglmkbVsWoUOx" version="22.1.18" type="github">
   <diagram name="第 1 页" id="cjbvyhrqumEVrlDR03J1">
     <mxGraphModel dx="2860" dy="1166" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,6 +34,15 @@
         </mxCell>
         <mxCell id="ZKIA1a1nuLi4vMWWjlmq-6" value="读取 routePath" style="whiteSpace=wrap;html=1;fontSize=14;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="-249.5" y="397" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKIA1a1nuLi4vMWWjlmq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZKIA1a1nuLi4vMWWjlmq-10" target="ZKIA1a1nuLi4vMWWjlmq-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="293" />
+              <mxPoint x="270" y="739" />
+              <mxPoint x="-187" y="739" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZKIA1a1nuLi4vMWWjlmq-10" value="无路由模式" style="whiteSpace=wrap;html=1;fontSize=14;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="3.5" y="263" width="120" height="60" as="geometry" />
