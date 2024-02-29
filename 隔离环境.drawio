@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T03:47:15.337Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BjJUrar7AfMUsi4uNI_X" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T03:48:11.401Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-cZofUVzezsaiyPE9oxF" version="23.1.6" type="github">
   <diagram name="第 1 页" id="y5avJ8O55IWnVHuXGaOw">
     <mxGraphModel dx="2689" dy="2096" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,17 +165,26 @@
         <mxCell id="owYXLH7-aTlSkCMRsayo-80" value="Git" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1331" y="-196" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="owYXLH7-aTlSkCMRsayo-81" value="Schema" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=27.66666666666663;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="owYXLH7-aTlSkCMRsayo-81" value="{ Schema }" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=27.66666666666663;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1201" y="150" width="320" height="195" as="geometry" />
         </mxCell>
         <mxCell id="owYXLH7-aTlSkCMRsayo-82" value="lc.shopee.io" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1283" y="162" width="156" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="owYXLH7-aTlSkCMRsayo-84" value="Materials" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=27.66666666666663;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="owYXLH7-aTlSkCMRsayo-84" value="Materials &amp;lt;js/css&amp;gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=27.66666666666663;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1201" y="554" width="320" height="195" as="geometry" />
         </mxCell>
         <mxCell id="owYXLH7-aTlSkCMRsayo-85" value="unpkg.shopee.io" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1283" y="566" width="156" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="owYXLH7-aTlSkCMRsayo-86" value="&amp;lt;LCModule id=&quot;xxx&quot; /&amp;gt;&lt;br&gt;{ Schema }" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=27.66666666666663;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="-40" width="320" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="owYXLH7-aTlSkCMRsayo-87" value="Materials" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=27.66666666666663;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="382" width="320" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="owYXLH7-aTlSkCMRsayo-88" value="Git" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="-28" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
