@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T03:17:18.964Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PcDCVpTrgUZV0laMsgee" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T03:17:53.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="msZDmlaprfeCahPrA5ma" version="23.1.6" type="github">
   <diagram name="第 1 页" id="y5avJ8O55IWnVHuXGaOw">
     <mxGraphModel dx="2689" dy="2096" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,8 +60,8 @@
               <mxPoint x="336" y="84" />
               <mxPoint x="87" y="84" />
               <mxPoint x="87" y="-111" />
-              <mxPoint x="168" y="-111" />
-              <mxPoint x="168" y="-391" />
+              <mxPoint x="160" y="-111" />
+              <mxPoint x="160" y="-391" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,14 +80,14 @@
         <mxCell id="owYXLH7-aTlSkCMRsayo-14" value="components" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="276" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="owYXLH7-aTlSkCMRsayo-16" value="Office Network" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-372" y="144" width="152" height="30" as="geometry" />
+        <mxCell id="owYXLH7-aTlSkCMRsayo-16" value="Office Network" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="125" width="152" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owYXLH7-aTlSkCMRsayo-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="16.5" y="-443" width="103" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="owYXLH7-aTlSkCMRsayo-29" value="Banking Network" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-382.5" y="-3" width="152" height="30" as="geometry" />
+        <mxCell id="owYXLH7-aTlSkCMRsayo-29" value="Banking Network" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="26" width="152" height="30" as="geometry" />
         </mxCell>
         <mxCell id="owYXLH7-aTlSkCMRsayo-37" value="html&lt;br style=&quot;font-size: 14px;&quot;&gt;css&lt;br style=&quot;font-size: 14px;&quot;&gt;js" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-260" y="158" width="120" height="60" as="geometry" />
