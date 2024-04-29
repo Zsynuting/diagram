@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T06:04:50.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FwsU-GWTcoFhyMZzQz0U" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T02:54:32.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="s8YH09KE4YJ3btAWWU46" version="24.3.1" type="github">
   <diagram name="Page-1" id="ADWS8KvVb-Phw36fm134">
-    <mxGraphModel dx="2460" dy="1541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2460" dy="1566" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="wdZtP8kg0rb3bL8GZGm_-239" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="wdZtP8kg0rb3bL8GZGm_-107" vertex="1">
           <mxGeometry x="45" y="743" width="10" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="wdZtP8kg0rb3bL8GZGm_-111" value="RUG Plugin" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="wdZtP8kg0rb3bL8GZGm_-111" value="RUG" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="211" y="10" width="100" height="891" as="geometry" />
         </mxCell>
         <mxCell id="wdZtP8kg0rb3bL8GZGm_-112" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="wdZtP8kg0rb3bL8GZGm_-111" vertex="1">
@@ -264,7 +264,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdZtP8kg0rb3bL8GZGm_-236" value="渲染字段配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wdZtP8kg0rb3bL8GZGm_-235" vertex="1" connectable="0">
+        <mxCell id="wdZtP8kg0rb3bL8GZGm_-236" value="渲染字段配置UI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wdZtP8kg0rb3bL8GZGm_-235" vertex="1" connectable="0">
           <mxGeometry x="-0.053" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
