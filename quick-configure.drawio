@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T02:54:32.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="s8YH09KE4YJ3btAWWU46" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T07:56:27.314Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="M6X1Cl26A5u1hUq_uIL-" version="24.3.1" type="github">
   <diagram name="Page-1" id="ADWS8KvVb-Phw36fm134">
-    <mxGraphModel dx="2460" dy="1566" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2460" dy="1541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,10 +161,10 @@
         </mxCell>
         <mxCell id="wdZtP8kg0rb3bL8GZGm_-213" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255.5" y="307" as="sourcePoint" />
-            <mxPoint x="-138" y="307" as="targetPoint" />
+            <mxPoint x="252.5" y="307" as="sourcePoint" />
+            <mxPoint x="-141" y="307" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="202.5" y="307" />
+              <mxPoint x="199.5" y="307" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -188,12 +188,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wdZtP8kg0rb3bL8GZGm_-217" value="选择数据源/提供JSON数据" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" target="wdZtP8kg0rb3bL8GZGm_-111" edge="1">
+        <mxCell id="wdZtP8kg0rb3bL8GZGm_-217" value="提供表达式+JSON样例数据" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-136" y="361" as="sourcePoint" />
-            <mxPoint x="46" y="359" as="targetPoint" />
+            <mxPoint x="-142" y="361" as="sourcePoint" />
+            <mxPoint x="254.5" y="359" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-64" y="359" />
+              <mxPoint x="-70" y="359" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -210,8 +210,8 @@
         </mxCell>
         <mxCell id="wdZtP8kg0rb3bL8GZGm_-223" value="生成字段配置UI" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="459.5" y="443" as="sourcePoint" />
-            <mxPoint x="258" y="443" as="targetPoint" />
+            <mxPoint x="459.5" y="436" as="sourcePoint" />
+            <mxPoint x="258" y="436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wdZtP8kg0rb3bL8GZGm_-224" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" edge="1">
