@@ -46,10 +46,10 @@
         <mxCell id="P6B6IK8A87WF3uyFW7dz-14" value="Ali LowCode 资产包协议" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1122" y="854.5" width="158" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P6B6IK8A87WF3uyFW7dz-15" value="搭建协议扩展" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P6B6IK8A87WF3uyFW7dz-15" value="搭建协议扩展" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1307" y="854.5" width="158" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P6B6IK8A87WF3uyFW7dz-16" value="物料协议扩展" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P6B6IK8A87WF3uyFW7dz-16" value="物料协议扩展" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1491.5" y="855" width="158" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P6B6IK8A87WF3uyFW7dz-17" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
@@ -73,7 +73,7 @@
         <mxCell id="P6B6IK8A87WF3uyFW7dz-23" value="TS类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1002" y="534" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P6B6IK8A87WF3uyFW7dz-24" value="Git托管" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="P6B6IK8A87WF3uyFW7dz-24" value="Git托管" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="584" y="693" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P6B6IK8A87WF3uyFW7dz-25" value="全局错误检查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -82,7 +82,7 @@
         <mxCell id="P6B6IK8A87WF3uyFW7dz-26" value="数据/接口&lt;div&gt;快速生成UI&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="584" y="614" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P6B6IK8A87WF3uyFW7dz-27" value="多分支多环境部署" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="P6B6IK8A87WF3uyFW7dz-27" value="多分支多环境部署" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="723" y="693" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P6B6IK8A87WF3uyFW7dz-28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
@@ -94,13 +94,13 @@
         <mxCell id="P6B6IK8A87WF3uyFW7dz-30" value="逻辑可视化编排" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="864" y="534" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P6B6IK8A87WF3uyFW7dz-31" value="WebIDE模式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="P6B6IK8A87WF3uyFW7dz-31" value="WebIDE模式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="864" y="693" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P6B6IK8A87WF3uyFW7dz-32" value="渲染SDK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P6B6IK8A87WF3uyFW7dz-32" value="渲染SDK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1322" y="532" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P6B6IK8A87WF3uyFW7dz-33" value="Webpack/Vite&lt;div&gt;插件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P6B6IK8A87WF3uyFW7dz-33" value="Webpack/Vite&lt;div&gt;插件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1322" y="619" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P6B6IK8A87WF3uyFW7dz-34" value="Module in Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -160,7 +160,7 @@
         <mxCell id="P6B6IK8A87WF3uyFW7dz-52" value="..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1746" y="882" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P6B6IK8A87WF3uyFW7dz-53" value="AI助手" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="P6B6IK8A87WF3uyFW7dz-53" value="AI助手" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1000" y="693" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
