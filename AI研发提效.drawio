@@ -459,16 +459,16 @@
           <mxGeometry height="40" width="300" x="1425" y="1862" as="geometry" />
         </mxCell>
         <mxCell id="bioTxleuzdYdijMDPOuT-153" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="开源研发流程" vertex="1">
-          <mxGeometry height="40" width="100" x="787" y="1862" as="geometry" />
+          <mxGeometry height="40" width="100" x="782" y="1862" as="geometry" />
         </mxCell>
         <mxCell id="bioTxleuzdYdijMDPOuT-154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#b0e3e6;strokeColor=#0e8088;" value="提效方式" vertex="1">
-          <mxGeometry height="40" width="80" x="787" y="1902" as="geometry" />
+          <mxGeometry height="40" width="80" x="782" y="1902" as="geometry" />
         </mxCell>
         <mxCell id="bioTxleuzdYdijMDPOuT-155" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#b0e3e6;strokeColor=#0e8088;" value="核心指标&lt;div&gt;目标/当前&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="80" x="787" y="1942" as="geometry" />
+          <mxGeometry height="100" width="80" x="782" y="1942" as="geometry" />
         </mxCell>
         <mxCell id="bioTxleuzdYdijMDPOuT-156" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#b0e3e6;strokeColor=#0e8088;" value="工具介绍" vertex="1">
-          <mxGeometry height="360" width="80" x="787" y="2042" as="geometry" />
+          <mxGeometry height="360" width="80" x="782" y="2042" as="geometry" />
         </mxCell>
         <mxCell id="bioTxleuzdYdijMDPOuT-172" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" value="需求分析" vertex="1">
           <mxGeometry height="40" width="300" x="862.5" y="1862" as="geometry" />
