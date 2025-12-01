@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="AI Empowered SDLC" id="opCYvK-GTbuagUHkfq9S">
-    <mxGraphModel dx="618" dy="569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="798" dy="669" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="VtQ75SpQeAhiGR_39aYq-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" value="" vertex="1">
           <mxGeometry height="50" width="180" x="1576" y="936" as="geometry" />
-        </mxCell>
-        <mxCell id="VtQ75SpQeAhiGR_39aYq-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" value="" vertex="1">
-          <mxGeometry height="50" width="180" x="1576" y="985" as="geometry" />
         </mxCell>
         <mxCell id="VtQ75SpQeAhiGR_39aYq-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="研发流程" vertex="1">
           <mxGeometry height="80" width="100" x="600" y="806" as="geometry" />
@@ -112,7 +109,7 @@
         <mxCell id="VtQ75SpQeAhiGR_39aYq-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="AICR" vertex="1">
           <mxGeometry height="50" width="180" x="1218" y="886" as="geometry" />
         </mxCell>
-        <mxCell id="VtQ75SpQeAhiGR_39aYq-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="AI测试" vertex="1">
+        <mxCell id="VtQ75SpQeAhiGR_39aYq-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="AI E2E 测试（MVP）" vertex="1">
           <mxGeometry height="50" width="180" x="1397" y="886" as="geometry" />
         </mxCell>
         <mxCell id="VtQ75SpQeAhiGR_39aYq-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="提效方式" vertex="1">
@@ -127,12 +124,6 @@
         <mxCell id="VtQ75SpQeAhiGR_39aYq-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" value="AI代码采纳次数占比" vertex="1">
           <mxGeometry height="25" width="180" x="1040" y="936" as="geometry" />
         </mxCell>
-        <mxCell id="VtQ75SpQeAhiGR_39aYq-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" value="" vertex="1">
-          <mxGeometry height="50" width="180" x="680" y="986" as="geometry" />
-        </mxCell>
-        <mxCell id="VtQ75SpQeAhiGR_39aYq-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" value="" vertex="1">
-          <mxGeometry height="50" width="180" x="860" y="986" as="geometry" />
-        </mxCell>
         <mxCell id="VtQ75SpQeAhiGR_39aYq-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;AI代码行数占比&lt;/div&gt;" vertex="1">
           <mxGeometry height="25" width="180" x="1040" y="986" as="geometry" />
         </mxCell>
@@ -140,18 +131,18 @@
           <mxGeometry height="50" width="80" x="600" y="886" as="geometry" />
         </mxCell>
         <mxCell id="VtQ75SpQeAhiGR_39aYq-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#b0e3e6;strokeColor=#0e8088;" value="核心指标&lt;div&gt;目标/当前&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="80" x="600" y="936" as="geometry" />
+          <mxGeometry height="50" width="80" x="600" y="936" as="geometry" />
         </mxCell>
         <mxCell id="bioTxleuzdYdijMDPOuT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="80%" vertex="1">
           <mxGeometry height="25" width="90" x="1218" y="961" as="geometry" />
         </mxCell>
-        <mxCell id="bioTxleuzdYdijMDPOuT-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="10%" vertex="1">
+        <mxCell id="bioTxleuzdYdijMDPOuT-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="6.17%" vertex="1">
           <mxGeometry height="25" width="90" x="1308" y="961" as="geometry" />
         </mxCell>
-        <mxCell id="bioTxleuzdYdijMDPOuT-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="80%" vertex="1">
+        <mxCell id="bioTxleuzdYdijMDPOuT-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="100%" vertex="1">
           <mxGeometry height="25" width="90" x="1218" y="1011" as="geometry" />
         </mxCell>
-        <mxCell id="bioTxleuzdYdijMDPOuT-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="100%" vertex="1">
+        <mxCell id="bioTxleuzdYdijMDPOuT-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="42.55%" vertex="1">
           <mxGeometry height="25" width="90" x="1308" y="1011" as="geometry" />
         </mxCell>
         <mxCell id="VtQ75SpQeAhiGR_39aYq-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="AICR评论有效率" vertex="1">
@@ -160,11 +151,8 @@
         <mxCell id="VtQ75SpQeAhiGR_39aYq-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" value="AICR评论采纳率" vertex="1">
           <mxGeometry height="25" width="180" x="1218" y="936" as="geometry" />
         </mxCell>
-        <mxCell id="VtQ75SpQeAhiGR_39aYq-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
-          <mxGeometry height="50" width="180" x="1397" y="936" as="geometry" />
-        </mxCell>
-        <mxCell id="VtQ75SpQeAhiGR_39aYq-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
-          <mxGeometry height="50" width="180" x="1397" y="986" as="geometry" />
+        <mxCell id="VtQ75SpQeAhiGR_39aYq-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="智能测试用例覆盖率" vertex="1">
+          <mxGeometry height="25" width="180" x="1397" y="936" as="geometry" />
         </mxCell>
         <mxCell id="bioTxleuzdYdijMDPOuT-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="25" width="90" x="1040" y="961" as="geometry" />
@@ -180,6 +168,21 @@
         </mxCell>
         <mxCell id="VtQ75SpQeAhiGR_39aYq-21" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="代码开发" vertex="1">
           <mxGeometry height="80" width="200" x="1038" y="806" as="geometry" />
+        </mxCell>
+        <mxCell id="bioTxleuzdYdijMDPOuT-12" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" value="可观测" vertex="1">
+          <mxGeometry height="80" width="200" x="1757" y="807" as="geometry" />
+        </mxCell>
+        <mxCell id="bioTxleuzdYdijMDPOuT-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" value="暂无" vertex="1">
+          <mxGeometry height="50" width="180" x="1756" y="887" as="geometry" />
+        </mxCell>
+        <mxCell id="bioTxleuzdYdijMDPOuT-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" value="" vertex="1">
+          <mxGeometry height="50" width="180" x="1756" y="937" as="geometry" />
+        </mxCell>
+        <mxCell id="bioTxleuzdYdijMDPOuT-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="100%" vertex="1">
+          <mxGeometry height="25" width="90" x="1397" y="961" as="geometry" />
+        </mxCell>
+        <mxCell id="bioTxleuzdYdijMDPOuT-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="-" vertex="1">
+          <mxGeometry height="25" width="90" x="1487" y="961" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
