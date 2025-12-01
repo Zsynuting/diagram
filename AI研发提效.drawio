@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VtQ75SpQeAhiGR_39aYq-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="VtQ75SpQeAhiGR_39aYq-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="" vertex="1">
           <mxGeometry height="80" width="120" x="600" y="806" as="geometry" />
         </mxCell>
         <mxCell id="VtQ75SpQeAhiGR_39aYq-1" parent="1" style="text;align=center;fontSize=24;fontStyle=1" value="AI 驱动的软件研发全流程提效体系（E2E AI Empowered SDLC）" vertex="1">
@@ -175,13 +175,13 @@
         <mxCell id="VtQ75SpQeAhiGR_39aYq-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
           <mxGeometry height="30" width="180" x="1568" y="976" as="geometry" />
         </mxCell>
-        <mxCell id="VtQ75SpQeAhiGR_39aYq-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" value="提效方式" vertex="1">
+        <mxCell id="VtQ75SpQeAhiGR_39aYq-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#b0e3e6;strokeColor=#0e8088;" value="提效方式" vertex="1">
           <mxGeometry height="30" width="80" x="600" y="886" as="geometry" />
         </mxCell>
-        <mxCell id="VtQ75SpQeAhiGR_39aYq-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" value="核心指标" vertex="1">
+        <mxCell id="VtQ75SpQeAhiGR_39aYq-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#b0e3e6;strokeColor=#0e8088;" value="核心指标" vertex="1">
           <mxGeometry height="60" width="80" x="600" y="916" as="geometry" />
         </mxCell>
-        <mxCell id="VtQ75SpQeAhiGR_39aYq-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;" value="当前进度" vertex="1">
+        <mxCell id="VtQ75SpQeAhiGR_39aYq-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#b0e3e6;strokeColor=#0e8088;" value="当前进度" vertex="1">
           <mxGeometry height="30" width="80" x="600" y="976" as="geometry" />
         </mxCell>
       </root>
