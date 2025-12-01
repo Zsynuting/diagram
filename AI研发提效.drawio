@@ -419,7 +419,7 @@
         <mxCell id="bioTxleuzdYdijMDPOuT-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="源码解读" vertex="1">
           <mxGeometry height="30" width="87" x="1959.5" y="2087" as="geometry" />
         </mxCell>
-        <mxCell id="bioTxleuzdYdijMDPOuT-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="AI测试用例编写" vertex="1">
+        <mxCell id="bioTxleuzdYdijMDPOuT-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="AI Vibe Coding" vertex="1">
           <mxGeometry height="40" width="280" x="1425" y="1902" as="geometry" />
         </mxCell>
         <mxCell id="bioTxleuzdYdijMDPOuT-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="测试用例覆盖率" vertex="1">
@@ -455,7 +455,7 @@
         <mxCell id="bioTxleuzdYdijMDPOuT-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;align=center;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="25" width="280" x="1425" y="2017" as="geometry" />
         </mxCell>
-        <mxCell id="bioTxleuzdYdijMDPOuT-152" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="测试" vertex="1">
+        <mxCell id="bioTxleuzdYdijMDPOuT-152" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="测试用例开发" vertex="1">
           <mxGeometry height="40" width="300" x="1425" y="1862" as="geometry" />
         </mxCell>
         <mxCell id="bioTxleuzdYdijMDPOuT-153" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" value="开源研发流程" vertex="1">
