@@ -344,7 +344,7 @@
         <mxCell id="bioTxleuzdYdijMDPOuT-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="研发自测" vertex="1">
           <mxGeometry height="30" width="80" x="1803" y="1317" as="geometry" />
         </mxCell>
-        <mxCell id="bioTxleuzdYdijMDPOuT-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="功能测试" vertex="1">
+        <mxCell id="bioTxleuzdYdijMDPOuT-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="测试验收" vertex="1">
           <mxGeometry height="30" width="80" x="1895" y="1317" as="geometry" />
         </mxCell>
         <mxCell id="bioTxleuzdYdijMDPOuT-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="回归测试" vertex="1">
