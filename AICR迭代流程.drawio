@@ -95,7 +95,7 @@
         <mxCell id="xxWWSdvSDPXdx3iwkyyX-19" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=2;shadow=0;" value="BadCase&lt;div&gt;单点测试&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="210" y="-110" as="geometry" />
         </mxCell>
-        <mxCell id="xxWWSdvSDPXdx3iwkyyX-22" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=2;shadow=0;" value="更新Prompt" vertex="1">
+        <mxCell id="xxWWSdvSDPXdx3iwkyyX-22" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=2;shadow=0;" value="更新AICR配置" vertex="1">
           <mxGeometry height="60" width="120" x="-130" y="-110" as="geometry" />
         </mxCell>
         <mxCell id="xxWWSdvSDPXdx3iwkyyX-29" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=2;shadow=0;dashed=1;" value="更换Model" vertex="1">
