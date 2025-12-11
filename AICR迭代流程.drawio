@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5234" dy="3123" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4024" dy="2546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -178,8 +178,8 @@
         <mxCell id="4D_b_7MHp4qtgOJeKdsZ-23" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;" value="覆盖场景" vertex="1">
           <mxGeometry height="100" width="200" x="-734" y="-805" as="geometry" />
         </mxCell>
-        <mxCell id="4D_b_7MHp4qtgOJeKdsZ-24" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=30;" value="数据平台&lt;div&gt;(DNA)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="200" x="834" y="226" as="geometry" />
+        <mxCell id="4D_b_7MHp4qtgOJeKdsZ-24" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=30;" value="数据平台&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(DNA)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="246" x="806" y="226" as="geometry" />
         </mxCell>
         <mxCell id="4D_b_7MHp4qtgOJeKdsZ-25" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=30;" value="Omega" vertex="1">
           <mxGeometry height="100" width="200" x="836" y="413" as="geometry" />
