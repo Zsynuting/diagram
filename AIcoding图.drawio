@@ -1,9 +1,102 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
-  <diagram name="第 1 页" id="TCkwH6fGkEC5C4AWa5BQ">
-    <mxGraphModel>
+  <diagram name="AI Coding Overview 16:9" id="TCkwH6fGkEC5C4AWa5BQ">
+    <mxGraphModel dx="2024" dy="1492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-5" parent="1" style="text;fontSize=42;fontColor=#333;fontStyle=1;align=center;" value="AI Coding " vertex="1">
+          <mxGeometry height="80" width="1500" x="1482" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-6" parent="1" style="text;fontSize=30;fontColor=#1A73E8;fontStyle=1;" value="① 数据洞察（Data Insights）" vertex="1">
+          <mxGeometry height="60" width="800" x="832" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-7" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#E3F2FD;strokeColor=#90CAF9;fontSize=26;" value="AI 代码贡献率&#xa;（如：45%）" vertex="1">
+          <mxGeometry height="140" width="350" x="832" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-8" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#E3F2FD;strokeColor=#90CAF9;fontSize=26;" value="AI 代码采纳率&#xa;（如：72%）" vertex="1">
+          <mxGeometry height="140" width="350" x="1282" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-9" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#E3F2FD;strokeColor=#90CAF9;fontSize=26;" value="旧代码删除率&#xa;（AI-assisted Refactoring）" vertex="1">
+          <mxGeometry height="140" width="800" x="832" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-10" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#E8F5E9;strokeColor=#A5D6A7;fontSize=26;" value="研发效率对比&#xa;人工 vs AI Coding&#xa;（8h → 3h | 步骤减少 | 产出提升）" vertex="1">
+          <mxGeometry height="180" width="800" x="832" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-11" parent="1" style="text;fontSize=30;fontColor=#1A73E8;fontStyle=1;" value="② 使用方式进化&#xa;" vertex="1">
+          <mxGeometry height="60" width="1000" x="1782" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-12" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#F5F5F5;strokeColor=#BDBDBD;fontSize=30;" value="需求 → 设计 → Coding → Review → Test → Release" vertex="1">
+          <mxGeometry height="140" width="1000" x="1782" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-13" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#FFF3E0;strokeColor=#FFCC80;fontSize=26;" value="• Tab 补全&#xa;• Rules&#xa;• 自定义 Agent" vertex="1">
+          <mxGeometry height="160" width="480" x="1782" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-14" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#FFF3E0;strokeColor=#FFCC80;fontSize=26;" value="• Auto review&#xa;• Code smell &amp; security scan" vertex="1">
+          <mxGeometry height="160" width="480" x="2302" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-15" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#FFF3E0;strokeColor=#FFCC80;fontSize=26;" value="IDE增强" vertex="1">
+          <mxGeometry height="140" width="491" x="1782" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-16" parent="1" style="text;fontSize=30;fontColor=#1A73E8;fontStyle=1;" value="③ 新开发范式" vertex="1">
+          <mxGeometry height="60" width="700" x="2882" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-17" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#FCE4EC;strokeColor=#F8BBD0;fontSize=26;" value="Trae Solo 模式&#xa;（Single Dev + Multi AI Agent）&#xa;- AI 生成代码&#xa;- AI 生成测试&#xa;- AI 生成文档&#xa;- 人类负责意图与判断" vertex="1">
+          <mxGeometry height="240" width="700" x="2882" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-18" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#EDE7F6;strokeColor=#D1C4E9;fontSize=26;" value="Spec-driven Development&#xa;- 先定义 API / Spec&#xa;- 自动生成 Code / Test / Docs&#xa;- 需求、代码、文档一致性" vertex="1">
+          <mxGeometry height="240" width="700" x="2882" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-19" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#E0F7FA;strokeColor=#80DEEA;fontSize=30;fontStyle=1;" value="④ 年度总结：团队从“使用 AI”迈向“AI-native 工程体系”，效率与质量全面提升。" vertex="1">
+          <mxGeometry height="160" width="1800" x="1432" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-20" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#FFF3E0;strokeColor=#FFCC80;fontSize=26;" value="vibe coding" vertex="1">
+          <mxGeometry height="140" width="491" x="2302" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-22" parent="1" style="text;whiteSpace=wrap;fontSize=28;fontStyle=1;align=center;" value="AI Coding 迭代" vertex="1">
+          <mxGeometry height="60" width="1234" x="2217" y="1676" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-23" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" value="AI代码补全、AI生成代码" vertex="1">
+          <mxGeometry height="60" width="300" x="2213" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-25" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" value="AI IDE&#xa;&#xa;Trae、Cursor、Qoder、..." vertex="1">
+          <mxGeometry height="150" width="300" x="2812" y="1874" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-27" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="Spec-Driven Development" vertex="1">
+          <mxGeometry height="150" width="462" x="2896" y="2388" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;基础使用&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="300" x="2217" y="1814" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;进阶使用&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="650" x="2812" y="1814" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-34" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;flowAnimation=0;fillColor=#fff2cc;strokeColor=#d6b656;width=20;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3126" y="2216" as="sourcePoint" />
+            <mxPoint x="3126.5" y="2290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#333333;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;工具&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="242" x="1880" y="1934" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#333333;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;使用方式&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="242" x="1875" y="2125" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-38" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" value="IDE插件&#xa;&#xa;GitHub Copilot、通义灵码" vertex="1">
+          <mxGeometry height="150" width="300" x="2217" y="1877" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-42" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;spacing=2;" value="AI Vibe Coding、AI文档生成、AI读源码、..." vertex="1">
+          <mxGeometry height="60" width="630" x="2812" y="2108" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-43" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" value="AI CLI工具&#xa;&#xa;Claude Code" vertex="1">
+          <mxGeometry height="150" width="300" x="3137" y="1874" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-44" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="定义规范&#xa;自主规划&#xa;自主调研&#xa;自主执行&#xa;自主检查" vertex="1">
+          <mxGeometry height="150" width="462" x="2896" y="2573" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;新范式探索&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="450" x="2896" y="2322" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
