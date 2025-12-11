@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
-          <mxGeometry height="1211" width="711" x="2759" y="1769" as="geometry" />
+          <mxGeometry height="636" width="703.5" x="2771.5" y="1769" as="geometry" />
         </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
-          <mxGeometry height="1206" width="483" x="2127" y="1769" as="geometry" />
+          <mxGeometry height="636" width="483" x="2127" y="1769" as="geometry" />
         </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-5" parent="1" style="text;fontSize=42;fontColor=#333;fontStyle=1;align=center;" value="AI Coding " vertex="1">
           <mxGeometry height="80" width="1500" x="1482" y="220" as="geometry" />
