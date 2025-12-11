@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="AI Coding Overview 16:9" id="TCkwH6fGkEC5C4AWa5BQ">
-    <mxGraphModel dx="634" dy="793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3216" dy="2220" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,8 +58,8 @@
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-20" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#FFF3E0;strokeColor=#FFCC80;fontSize=26;" value="vibe coding" vertex="1">
           <mxGeometry height="140" width="491" x="2302" y="810" as="geometry" />
         </mxCell>
-        <mxCell id="HmpAx5dvfgQTZmPz0d4K-22" parent="1" style="text;whiteSpace=wrap;fontSize=28;fontStyle=1;align=center;" value="AI Coding" vertex="1">
-          <mxGeometry height="46" width="264" x="2555" y="1677" as="geometry" />
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-22" parent="1" style="text;whiteSpace=wrap;fontSize=40;fontStyle=1;align=center;" value="AI Coding" vertex="1">
+          <mxGeometry height="46" width="264" x="2551" y="1645" as="geometry" />
         </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-23" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" value="AI代码补全" vertex="1">
           <mxGeometry height="40" width="300" x="2213" y="2110" as="geometry" />
