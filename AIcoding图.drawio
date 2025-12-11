@@ -62,7 +62,7 @@
           <mxGeometry height="150" width="300" x="2812" y="1874" as="geometry" />
         </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-27" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="Spec-Driven Development" vertex="1">
-          <mxGeometry height="150" width="462" x="2896" y="2388" as="geometry" />
+          <mxGeometry height="150" width="462" x="2896" y="2614" as="geometry" />
         </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;基础使用&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="300" x="2217" y="1814" as="geometry" />
@@ -72,30 +72,39 @@
         </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-34" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;flowAnimation=0;fillColor=#fff2cc;strokeColor=#d6b656;width=20;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="3126" y="2216" as="sourcePoint" />
-            <mxPoint x="3126.5" y="2290" as="targetPoint" />
+            <mxPoint x="3126" y="2442" as="sourcePoint" />
+            <mxPoint x="3126.5" y="2516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#333333;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;工具&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="242" x="1880" y="1934" as="geometry" />
         </mxCell>
-        <mxCell id="HmpAx5dvfgQTZmPz0d4K-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#333333;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;使用方式&lt;/span&gt;" vertex="1">
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#333333;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;功能&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="242" x="1875" y="2125" as="geometry" />
         </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-38" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" value="IDE插件&#xa;&#xa;GitHub Copilot、通义灵码" vertex="1">
           <mxGeometry height="150" width="300" x="2217" y="1877" as="geometry" />
         </mxCell>
-        <mxCell id="HmpAx5dvfgQTZmPz0d4K-42" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;spacing=2;" value="AI Vibe Coding、AI文档生成、AI读源码、..." vertex="1">
-          <mxGeometry height="60" width="630" x="2812" y="2108" as="geometry" />
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-42" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;spacing=2;" value="AI Vibe Coding&#xa;AI文档生成&#xa;AI读源码&#xa;..." vertex="1">
+          <mxGeometry height="131" width="630" x="2812" y="2062" as="geometry" />
         </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-43" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" value="AI CLI工具&#xa;&#xa;Claude Code" vertex="1">
           <mxGeometry height="150" width="300" x="3137" y="1874" as="geometry" />
         </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-44" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="定义规范&#xa;自主规划&#xa;自主调研&#xa;自主执行&#xa;自主检查" vertex="1">
-          <mxGeometry height="150" width="462" x="2896" y="2573" as="geometry" />
+          <mxGeometry height="150" width="462" x="2896" y="2799" as="geometry" />
         </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;新范式探索&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="450" x="2896" y="2322" as="geometry" />
+          <mxGeometry height="30" width="450" x="2896" y="2548" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-50" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" value="0自定义配置" vertex="1">
+          <mxGeometry height="60" width="300" x="2218" y="2285" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;fontColor=#333333;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;使用方式&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="242" x="1880" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-52" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;spacing=2;" value="自定义rule&#xa;自定义agent&#xa;MCP" vertex="1">
+          <mxGeometry height="131" width="630" x="2806" y="2246" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
