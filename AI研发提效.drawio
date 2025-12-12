@@ -596,6 +596,102 @@
         <mxCell id="bigR41xMl54y1EUh4rVf-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="cursor" vertex="1">
           <mxGeometry height="20" width="48" x="1041" y="2865" as="geometry" />
         </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="60" width="304" x="1216" y="2853" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="IDE插件" vertex="1">
+          <mxGeometry height="20" width="169" x="1216" y="2891" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="AI IDE" vertex="1">
+          <mxGeometry height="20" width="108" x="1409" y="2891" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="60" width="304" x="1216" y="2923" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="采纳率20%" vertex="1">
+          <mxGeometry height="20" width="80" x="1249" y="2928" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="贡献率13%" vertex="1">
+          <mxGeometry height="20" width="80" x="1412" y="2928" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="指标" vertex="1">
+          <mxGeometry height="30" width="23" x="1193" y="2938" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="工具" vertex="1">
+          <mxGeometry height="30" width="21" x="1192" y="2872" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="代码删除率28.7%" vertex="1">
+          <mxGeometry height="20" width="105" x="1239" y="2956.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="简单需求提效&amp;gt;50%" vertex="1">
+          <mxGeometry height="20" width="121" x="1386" y="2957" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="156" width="304" x="1216" y="2687" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="copilot模式" vertex="1">
+          <mxGeometry height="20" width="104" x="1216" y="2823" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="SDD" vertex="1">
+          <mxGeometry height="20" width="86" x="1432" y="2823" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="开发模式与案例" vertex="1">
+          <mxGeometry height="120" width="22" x="1192" y="2714" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="vibe coding" vertex="1">
+          <mxGeometry height="20" width="110" x="1320" y="2823" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-54" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1319" y="2830" as="sourcePoint" />
+            <mxPoint x="1319" y="2690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-55" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1431" y="2831" as="sourcePoint" />
+            <mxPoint x="1431" y="2691" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="日常研发众测" vertex="1">
+          <mxGeometry height="20" width="80" x="1228" y="2782" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="问卷调查" vertex="1">
+          <mxGeometry height="20" width="80" x="1228" y="2709" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="数据分析" vertex="1">
+          <mxGeometry height="20" width="80" x="1228" y="2742" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="同需求&lt;div&gt;对比实验&lt;/div&gt;" vertex="1">
+          <mxGeometry height="34" width="83" x="1335" y="2768" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="NPS问卷" vertex="1">
+          <mxGeometry height="20" width="83" x="1335" y="2723" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="vue转mpx&lt;div&gt;对比测试&lt;/div&gt;" vertex="1">
+          <mxGeometry height="34" width="83" x="1435" y="2768" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="各复杂度场景提效度量" vertex="1">
+          <mxGeometry height="44" width="83" x="1435" y="2707" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="github copilot" vertex="1">
+          <mxGeometry height="20" width="80" x="1216" y="2866" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="通义灵码" vertex="1">
+          <mxGeometry height="20" width="80" x="1301" y="2866" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-65" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1399" y="2913" as="sourcePoint" />
+            <mxPoint x="1399" y="2853" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="trae" vertex="1">
+          <mxGeometry height="20" width="35" x="1409" y="2859" as="geometry" />
+        </mxCell>
+        <mxCell id="bigR41xMl54y1EUh4rVf-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="cursor" vertex="1">
+          <mxGeometry height="20" width="48" x="1459" y="2859" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
