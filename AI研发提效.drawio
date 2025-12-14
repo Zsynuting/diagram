@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="AI Empowered SDLC" id="opCYvK-GTbuagUHkfq9S">
-    <mxGraphModel dx="1060" dy="-245" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="-245" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -647,14 +647,14 @@
         <mxCell id="bigR41xMl54y1EUh4rVf-180" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;" value="执行引擎" vertex="1">
           <mxGeometry height="58.5" width="21" x="1993.5" y="2748" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-181" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="agenthub(自建dify)" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-181" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="agenthub(类dify)" vertex="1">
           <mxGeometry height="20" width="104" x="2191" y="2772.5" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-183" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="coze空间" vertex="1">
           <mxGeometry height="20" width="61.75" x="2025.25" y="2771" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-184" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="自建Agent" vertex="1">
-          <mxGeometry height="20" width="61.75" x="2097.25" y="2771" as="geometry" />
+          <mxGeometry height="20" width="64" x="2095" y="2771" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-185" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="39" width="303.97" x="2014.5" y="2694" as="geometry" />
@@ -666,13 +666,10 @@
           <mxGeometry height="20" width="62.25" x="2098.75" y="2703.5" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-188" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="功能答疑" vertex="1">
-          <mxGeometry height="20" width="57" x="2179" y="2703.5" as="geometry" />
+          <mxGeometry height="20" width="57" x="2184" y="2703.5" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-189" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;" value="场景" vertex="1">
           <mxGeometry height="45" width="21" x="1993.5" y="2691" as="geometry" />
-        </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-190" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="功能答疑" vertex="1">
-          <mxGeometry height="20" width="57" x="2245" y="2703.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
