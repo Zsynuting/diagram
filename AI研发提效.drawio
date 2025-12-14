@@ -602,11 +602,11 @@
         <mxCell id="bigR41xMl54y1EUh4rVf-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" value="应答准确率 &amp;gt; 30%" vertex="1">
           <mxGeometry height="45" width="135.02" x="2176" y="2950" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-152" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" value="LogicFlow" vertex="1">
-          <mxGeometry height="17" width="66.5" x="2018" y="2950.5" as="geometry" />
+        <mxCell id="bigR41xMl54y1EUh4rVf-152" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" value="LogicFlow答疑助手" vertex="1">
+          <mxGeometry height="17" width="114" x="2018" y="2950.5" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-153" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" value="千帆机器人" vertex="1">
-          <mxGeometry height="17" width="66.5" x="2161" y="2950.5" as="geometry" />
+        <mxCell id="bigR41xMl54y1EUh4rVf-153" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" value="千帆智能助手" vertex="1">
+          <mxGeometry height="17" width="87" x="2161" y="2950.5" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="39" width="304" x="2014.5" y="2871" as="geometry" />
