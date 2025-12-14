@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="AI Empowered SDLC" id="opCYvK-GTbuagUHkfq9S">
-    <mxGraphModel dx="437" dy="-337" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="-183" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -527,7 +527,7 @@
         <mxCell id="bigR41xMl54y1EUh4rVf-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="移动设备" vertex="1">
           <mxGeometry height="20" width="57" x="1678.01" y="2884" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="无头浏览器" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="无头浏览器" vertex="1">
           <mxGeometry height="20" width="62.98" x="1751.05" y="2885" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
@@ -545,7 +545,7 @@
         <mxCell id="bigR41xMl54y1EUh4rVf-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="执行层" vertex="1">
           <mxGeometry height="45" width="21" x="1643.03" y="2823" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="任务调度" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="任务调度" vertex="1">
           <mxGeometry height="19" width="73" x="1783.06" y="2758.5" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="应用层" vertex="1">
@@ -557,19 +557,19 @@
         <mxCell id="bigR41xMl54y1EUh4rVf-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="功能测试" vertex="1">
           <mxGeometry height="20" width="80" x="1675.01" y="2703.5" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="线上回归" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="线上回归" vertex="1">
           <mxGeometry height="20" width="80" x="1775.03" y="2705" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="定时巡检" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="定时巡检" vertex="1">
           <mxGeometry height="20" width="80" x="1876" y="2705" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-125" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="场景" vertex="1">
           <mxGeometry height="45" width="21" x="1643.03" y="2693" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="用例管理" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="用例管理" vertex="1">
           <mxGeometry height="20" width="80" x="1689.01" y="2757.5" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="设备调度" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="设备调度" vertex="1">
           <mxGeometry height="20" width="80" x="1874.01" y="2757.5" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="OCR" vertex="1">
@@ -584,10 +584,10 @@
         <mxCell id="bigR41xMl54y1EUh4rVf-141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=0;" value="数据提取" vertex="1">
           <mxGeometry height="20" width="52" x="1907.06" y="2834.5" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="数据大盘" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="数据大盘" vertex="1">
           <mxGeometry height="20" width="80" x="1689.01" y="2787.5" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="告警规则" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="告警规则" vertex="1">
           <mxGeometry height="19" width="73" x="1783.06" y="2788" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
