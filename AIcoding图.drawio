@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="AI Coding Overview 16:9" id="TCkwH6fGkEC5C4AWa5BQ">
-    <mxGraphModel dx="2024" dy="1346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2024" dy="1492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,9 +67,6 @@
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-25" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" value="AI IDE" vertex="1">
           <mxGeometry height="40" width="291" x="2812" y="1874" as="geometry" />
         </mxCell>
-        <mxCell id="B3bH9beIm4ZPcqzk_Yza-17" edge="1" parent="1" source="HmpAx5dvfgQTZmPz0d4K-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HmpAx5dvfgQTZmPz0d4K-45" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-27" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="Spec-Driven Development" vertex="1">
           <mxGeometry height="150" width="462" x="2896" y="2614" as="geometry" />
         </mxCell>
@@ -94,7 +91,7 @@
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-44" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="定义规范&#xa;自主规划&#xa;自主调研&#xa;自主执行&#xa;自主检查" vertex="1">
           <mxGeometry height="150" width="462" x="2896" y="2799" as="geometry" />
         </mxCell>
-        <mxCell id="HmpAx5dvfgQTZmPz0d4K-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;AI Coding新范式&lt;/span&gt;" vertex="1">
+        <mxCell id="HmpAx5dvfgQTZmPz0d4K-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;shadow=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;AI Vibe Coding新范式&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="450" x="2896" y="2548" as="geometry" />
         </mxCell>
         <mxCell id="HmpAx5dvfgQTZmPz0d4K-50" parent="1" style="rounded=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" value="0自定义配置" vertex="1">
