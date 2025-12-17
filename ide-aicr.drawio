@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2212" dy="668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2683" dy="891" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="git commit" vertex="1">
-          <mxGeometry height="60" width="120" x="-436" y="387" as="geometry" />
+          <mxGeometry height="60" width="120" x="108" y="387" as="geometry" />
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-49" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="前置依赖&lt;div&gt;需要用户提供prompt.md&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="198" y="711" as="geometry" />
@@ -114,6 +114,12 @@
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-51" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="生成AICR report" vertex="1">
           <mxGeometry height="60" width="120" x="364" y="938" as="geometry" />
+        </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-57" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-56" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="开始" vertex="1">
+          <mxGeometry height="80" width="120" x="-467" y="253" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
