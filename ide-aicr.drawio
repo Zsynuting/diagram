@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-7" connectable="0" parent="pdYg6WQuWAiibeTj5VnC-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
           <mxGeometry relative="1" x="0.3419" y="-2" as="geometry">
-            <mxPoint x="-2" y="-33" as="offset" />
+            <mxPoint x="-9" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-11" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-10" value="">
@@ -23,11 +23,11 @@
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-12" connectable="0" parent="pdYg6WQuWAiibeTj5VnC-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
           <mxGeometry relative="1" x="0.625" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-7" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="上一次&lt;div&gt;是否为CR commit&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="214" y="253" as="geometry" />
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="上一次&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;是否为&lt;/span&gt;&lt;div&gt;IDE CR commit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="188" y="253" as="geometry" />
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-9" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-8" value="">
           <mxGeometry relative="1" as="geometry" />
