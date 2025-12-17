@@ -74,6 +74,9 @@
         <mxCell id="pdYg6WQuWAiibeTj5VnC-50" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" target="pdYg6WQuWAiibeTj5VnC-49" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-59" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" target="pdYg6WQuWAiibeTj5VnC-58" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-30" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="生成起止commit id IDE CR所需的&lt;div&gt;prompt文件&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="364" y="711" as="geometry" />
         </mxCell>
@@ -107,7 +110,7 @@
           <mxGeometry height="60" width="120" x="108" y="387" as="geometry" />
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-49" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="前置依赖&lt;div&gt;需要用户提供prompt.md&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="198" y="711" as="geometry" />
+          <mxGeometry height="60" width="120" x="139" y="711" as="geometry" />
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-53" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-34" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -120,6 +123,9 @@
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-56" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="开始" vertex="1">
           <mxGeometry height="80" width="120" x="-467" y="253" as="geometry" />
+        </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-58" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="如果上一版commit的 prompt文件未生成对应的report，则生成新的，删除旧的" vertex="1">
+          <mxGeometry height="60" width="120" x="589" y="711" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
