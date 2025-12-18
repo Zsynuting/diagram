@@ -149,11 +149,11 @@
         <mxCell id="pdYg6WQuWAiibeTj5VnC-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="pre-push hook" vertex="1">
           <mxGeometry height="30" width="117" x="169" y="41" as="geometry" />
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="post-commit hook" vertex="1">
-          <mxGeometry height="30" width="117" x="620" y="382" as="geometry" />
-        </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="pre-commit hook" vertex="1">
           <mxGeometry height="30" width="117" x="684" y="1005" as="geometry" />
+        </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="pre-push hook + post-commit hook" vertex="1">
+          <mxGeometry height="30" width="117" x="624" y="378" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
