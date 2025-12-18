@@ -4,11 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="124" width="484" x="317" y="1005" as="geometry" />
+        </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="411" width="405" x="336" y="378" as="geometry" />
+        </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="333" width="376" x="168" y="37" as="geometry" />
+        </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-4" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="husky pre-push" vertex="1">
-          <mxGeometry height="60" width="120" x="-6" y="263" as="geometry" />
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="git push" vertex="1">
+          <mxGeometry height="60" width="120" x="-6" y="191" as="geometry" />
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-6" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-5" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -27,28 +36,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="上一次&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;是否为&lt;/span&gt;&lt;div&gt;IDE CR commit&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="140" x="188" y="253" as="geometry" />
+          <mxGeometry height="80" width="140" x="188" y="181" as="geometry" />
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-9" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="正常push" vertex="1">
-          <mxGeometry height="60" width="120" x="364" y="138" as="geometry" />
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="允许push" vertex="1">
+          <mxGeometry height="60" width="120" x="364" y="66" as="geometry" />
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OE AICR" vertex="1">
-          <mxGeometry height="60" width="120" x="564" y="138" as="geometry" />
-        </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-16" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-15" value="">
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-64" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="识别未进行&lt;div&gt;AICR的commit&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="364" y="387" as="geometry" />
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OE代码合并" vertex="1">
+          <mxGeometry height="60" width="120" x="564" y="66" as="geometry" />
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-14" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-1">
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-16" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-15" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="git push" vertex="1">
-          <mxGeometry height="60" width="120" x="-189" y="263" as="geometry" />
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="阻断push" vertex="1">
+          <mxGeometry height="60" width="120" x="364" y="290" as="geometry" />
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-27" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-26" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -89,12 +95,13 @@
         <mxCell id="pdYg6WQuWAiibeTj5VnC-37" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" target="pdYg6WQuWAiibeTj5VnC-36" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-55" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pdYg6WQuWAiibeTj5VnC-13">
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-55" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-287" y="1073" />
-              <mxPoint x="-287" y="293" />
+              <mxPoint x="-287" y="221" />
             </Array>
+            <mxPoint x="-189" y="221" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-34" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="CR commit" vertex="1">
@@ -103,7 +110,7 @@
         <mxCell id="pdYg6WQuWAiibeTj5VnC-36" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="通过提交内容和commit id校验来判断当前次提交是否是进行IDE AICR提交" vertex="1">
           <mxGeometry height="60" width="120" x="593" y="1043" as="geometry" />
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-54" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="pdYg6WQuWAiibeTj5VnC-10">
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-54" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="pdYg6WQuWAiibeTj5VnC-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="git commit" vertex="1">
@@ -118,14 +125,35 @@
         <mxCell id="pdYg6WQuWAiibeTj5VnC-51" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="生成AICR report" vertex="1">
           <mxGeometry height="60" width="120" x="364" y="938" as="geometry" />
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-57" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-13">
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-72" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-56" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="开始" vertex="1">
-          <mxGeometry height="80" width="120" x="-467" y="253" as="geometry" />
+          <mxGeometry height="80" width="120" x="-467" y="181" as="geometry" />
         </mxCell>
         <mxCell id="pdYg6WQuWAiibeTj5VnC-58" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="如果上一版commit的 prompt文件未生成对应的report，则生成新的，删除旧的" vertex="1">
           <mxGeometry height="60" width="120" x="589" y="711" as="geometry" />
+        </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-61" edge="1" parent="1" source="pdYg6WQuWAiibeTj5VnC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pdYg6WQuWAiibeTj5VnC-60" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="350" as="sourcePoint" />
+            <mxPoint x="424" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-60" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="识别未进行&lt;div&gt;AICR的commit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="364" y="387" as="geometry" />
+        </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-63" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="OE AICR" vertex="1">
+          <mxGeometry height="60" width="120" x="764" y="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="pre-push hook" vertex="1">
+          <mxGeometry height="30" width="117" x="169" y="41" as="geometry" />
+        </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="post-commit hook" vertex="1">
+          <mxGeometry height="30" width="117" x="620" y="382" as="geometry" />
+        </mxCell>
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="pre-commit hook" vertex="1">
+          <mxGeometry height="30" width="117" x="684" y="1005" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
