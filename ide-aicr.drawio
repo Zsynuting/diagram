@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2283" dy="891" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2837" dy="982" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,10 +149,10 @@
         <mxCell id="pdYg6WQuWAiibeTj5VnC-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="pre-push hook" vertex="1">
           <mxGeometry height="30" width="117" x="169" y="41" as="geometry" />
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="pre-commit hook" vertex="1">
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="commit-msg hook" vertex="1">
           <mxGeometry height="30" width="117" x="684" y="1005" as="geometry" />
         </mxCell>
-        <mxCell id="pdYg6WQuWAiibeTj5VnC-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="pre-push hook + post-commit hook" vertex="1">
+        <mxCell id="pdYg6WQuWAiibeTj5VnC-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="post-commit hook" vertex="1">
           <mxGeometry height="30" width="117" x="624" y="378" as="geometry" />
         </mxCell>
       </root>
