@@ -4,8 +4,53 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GcIn_AnHi_f4tVfsEICR-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="374" y="300" as="geometry" />
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="246" y="528" as="sourcePoint" />
+            <mxPoint x="944" y="528" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="368" y="528" as="sourcePoint" />
+            <mxPoint x="312" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="406" y="604" as="sourcePoint" />
+            <mxPoint x="448" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="调研国际化团队&lt;div&gt;AICR实践情况&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="247" y="396" as="geometry" />
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="接入鲲鹏&lt;div&gt;SmartCoder AICR&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="344" y="603" as="geometry" />
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;ol&gt;&lt;li&gt;AICR + 人工CR双轨执行&lt;br&gt;&lt;/li&gt;&lt;li&gt;数据指标观测：AICR采纳率 5 ~ 23%，AICR有效占比 45 ~ 75%，&lt;/li&gt;&lt;li&gt;badcase收集，迭代prompt&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="76" width="265" x="493" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2025-10" vertex="1">
+          <mxGeometry height="30" width="60" x="334" y="523" as="geometry" />
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2025-11-10" vertex="1">
+          <mxGeometry height="30" width="77" x="420" y="501" as="geometry" />
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-17" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;rotation=90;" value="" vertex="1">
+          <mxGeometry height="333" width="20" x="613.5" y="332.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2025-12-24" vertex="1">
+          <mxGeometry height="30" width="77" x="756" y="503" as="geometry" />
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="751" y="604" as="sourcePoint" />
+            <mxPoint x="793" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="自研AICR流程" vertex="1">
+          <mxGeometry height="60" width="120" x="689" y="603" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
