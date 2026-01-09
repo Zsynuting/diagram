@@ -7,7 +7,7 @@
         <mxCell id="pe-8ddc3c0F8_Iovw0M9-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="246" y="528" as="sourcePoint" />
-            <mxPoint x="944" y="528" as="targetPoint" />
+            <mxPoint x="1040" y="528" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pe-8ddc3c0F8_Iovw0M9-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="">
@@ -49,8 +49,20 @@
             <mxPoint x="793" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pe-8ddc3c0F8_Iovw0M9-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="自研AICR流程" vertex="1">
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="自研AICR工具" vertex="1">
           <mxGeometry height="60" width="120" x="689" y="603" as="geometry" />
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="940" y="528" as="sourcePoint" />
+            <mxPoint x="884" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="自研AICR工具&lt;div&gt;MVP版本&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;完成&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="819" y="396" as="geometry" />
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2025-12-31" vertex="1">
+          <mxGeometry height="30" width="85" x="906" y="523" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
