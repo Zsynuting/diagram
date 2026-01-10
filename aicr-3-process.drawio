@@ -64,6 +64,15 @@
         <mxCell id="pe-8ddc3c0F8_Iovw0M9-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2025-12-31" vertex="1">
           <mxGeometry height="30" width="85" x="906" y="523" as="geometry" />
         </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="572" y="601" as="sourcePoint" />
+            <mxPoint x="614" y="527" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;dashed=1;" value="AICR单点测试工具" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="600" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
