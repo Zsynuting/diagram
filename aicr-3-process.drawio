@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="第 1 页" id="lnAcGeH1mLGfCZRbUcEI">
     <mxGraphModel dx="1004" dy="560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,13 +22,13 @@
             <mxPoint x="448" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pe-8ddc3c0F8_Iovw0M9-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="调研国际化团队&lt;div&gt;AICR实践情况&lt;/div&gt;" vertex="1">
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="调研国际化和EP团队&lt;div&gt;AICR实践情况&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="247" y="396" as="geometry" />
         </mxCell>
         <mxCell id="pe-8ddc3c0F8_Iovw0M9-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="接入鲲鹏&lt;div&gt;SmartCoder AICR&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="344" y="603" as="geometry" />
         </mxCell>
-        <mxCell id="pe-8ddc3c0F8_Iovw0M9-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;ol&gt;&lt;li&gt;AICR + 人工CR双轨执行&lt;br&gt;&lt;/li&gt;&lt;li&gt;badcase收集，迭代prompt&lt;/li&gt;&lt;li&gt;数据指标观测&lt;br&gt;&lt;b&gt;AICR采纳率 5 ~ 23%&lt;/b&gt;&lt;br&gt;&lt;b&gt;AICR有效占比 45 ~ 75%&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;ol&gt;&lt;li&gt;SmartCoder AICR + 人工CR双轨执行&lt;br&gt;&lt;/li&gt;&lt;li&gt;badcase收集，迭代prompt&lt;/li&gt;&lt;li&gt;数据指标观测&lt;br&gt;&lt;b&gt;AICR采纳率 5 ~ 23%&lt;/b&gt;&lt;br&gt;&lt;b&gt;AICR有效占比 45 ~ 75%&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
           <mxGeometry height="76" width="265" x="493" y="392" as="geometry" />
         </mxCell>
         <mxCell id="pe-8ddc3c0F8_Iovw0M9-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2025-10" vertex="1">
@@ -58,7 +58,7 @@
             <mxPoint x="884" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pe-8ddc3c0F8_Iovw0M9-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="自研AICR工具&lt;div&gt;MVP版本&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;完成&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="自研AICR工具&lt;div&gt;MVP版本功能完成&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="819" y="396" as="geometry" />
         </mxCell>
         <mxCell id="pe-8ddc3c0F8_Iovw0M9-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2025-12-31" vertex="1">
@@ -70,7 +70,7 @@
             <mxPoint x="614" y="527" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pe-8ddc3c0F8_Iovw0M9-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;dashed=1;" value="AICR单点测试工具" vertex="1">
+        <mxCell id="pe-8ddc3c0F8_Iovw0M9-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;dashed=1;" value="SmartCoder AICR&lt;div&gt;单点测试工具&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="510" y="600" as="geometry" />
         </mxCell>
       </root>
