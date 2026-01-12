@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="第 1 页" id="lnAcGeH1mLGfCZRbUcEI">
-    <mxGraphModel dx="1004" dy="560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,75 @@
         </mxCell>
         <mxCell id="pe-8ddc3c0F8_Iovw0M9-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;dashed=1;" value="SmartCoder AICR&lt;div&gt;单点测试工具&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="510" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="618" y="1241" as="sourcePoint" />
+            <mxPoint x="1412" y="1241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="740" y="1241" as="sourcePoint" />
+            <mxPoint x="684" y="1173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="778" y="1317" as="sourcePoint" />
+            <mxPoint x="820" y="1243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="调研国际化和EP团队&lt;div&gt;AICR实践情况&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="619" y="1109" as="geometry" />
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="接入鲲鹏&lt;div&gt;SmartCoder AICR&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="716" y="1316" as="geometry" />
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;ol&gt;&lt;li&gt;SmartCoder AICR + 人工CR双轨执行&lt;br&gt;&lt;/li&gt;&lt;li&gt;badcase收集，迭代prompt&lt;/li&gt;&lt;li&gt;数据指标观测&lt;br&gt;&lt;b&gt;AICR采纳率 5 ~ 23%&lt;/b&gt;&lt;br&gt;&lt;b&gt;AICR有效占比 45 ~ 75%&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="76" width="265" x="865" y="1105" as="geometry" />
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2025-10" vertex="1">
+          <mxGeometry height="30" width="60" x="706" y="1236" as="geometry" />
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2025-11-10" vertex="1">
+          <mxGeometry height="30" width="77" x="792" y="1214" as="geometry" />
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-9" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=2;rotation=90;" value="" vertex="1">
+          <mxGeometry height="333" width="40.5" x="975.25" y="1035.25" as="geometry" />
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2025-12-24" vertex="1">
+          <mxGeometry height="30" width="77" x="1128" y="1216" as="geometry" />
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1123" y="1317" as="sourcePoint" />
+            <mxPoint x="1165" y="1243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="自研AICR工具" vertex="1">
+          <mxGeometry height="60" width="120" x="1061" y="1316" as="geometry" />
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1312" y="1241" as="sourcePoint" />
+            <mxPoint x="1256" y="1173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" value="自研AICR工具&lt;div&gt;MVP版本功能完成&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1191" y="1109" as="geometry" />
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2025-12-31" vertex="1">
+          <mxGeometry height="30" width="85" x="1278" y="1236" as="geometry" />
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="944" y="1314" as="sourcePoint" />
+            <mxPoint x="986" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B20GzS2s_jZaKClgC9uR-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;dashed=1;" value="SmartCoder AICR&lt;div&gt;单点测试工具&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="882" y="1313" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
