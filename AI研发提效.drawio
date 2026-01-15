@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="AI Empowered SDLC" id="opCYvK-GTbuagUHkfq9S">
-    <mxGraphModel dx="858" dy="-245" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1012" dy="-53" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -320,10 +320,10 @@
         <mxCell id="bigR41xMl54y1EUh4rVf-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="60" width="255.99" x="964.01" y="2953.5" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="AI代码采纳率25.35%" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="AI代码采纳率25.26%" vertex="1">
           <mxGeometry height="30" width="74.99" x="967.01" y="2968.5" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="AI代码占比&lt;div&gt;49.44%&lt;/div&gt;" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="AI代码占比&lt;div&gt;51.50%&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="70.99" x="1046.01" y="2968.5" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="指标" vertex="1">
@@ -392,10 +392,10 @@
         <mxCell id="bigR41xMl54y1EUh4rVf-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="60" width="245.96" x="1251.04" y="2953" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="AICR采纳率13%" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="AICR采纳率11.11%" vertex="1">
           <mxGeometry height="30" width="104" x="1256.04" y="2966.5" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="有效CR召回率65%" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" value="有效CR召回率58.82%" vertex="1">
           <mxGeometry height="30" width="116" x="1366" y="2966.5" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;" value="指标" vertex="1">
@@ -486,10 +486,10 @@
           <mxGeometry height="60" width="242.97" x="1529.03" y="2952" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="测试用例覆盖率 N/A" vertex="1">
-          <mxGeometry height="30" width="113.02" x="1530.03" y="2963.5" as="geometry" />
+          <mxGeometry height="30" width="113.02" x="1529.03" y="2950.5" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="测试用例通过率 N/A" vertex="1">
-          <mxGeometry height="30" width="115" x="1648" y="2963.5" as="geometry" />
+          <mxGeometry height="30" width="115" x="1657.06" y="2950.5" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="指标" vertex="1">
           <mxGeometry height="30" width="18.02" x="1509.01" y="2963.5" as="geometry" />
@@ -560,13 +560,13 @@
         <mxCell id="bigR41xMl54y1EUh4rVf-147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
           <mxGeometry height="60" width="276.48" x="1807.52" y="2944" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;LogicFlow答疑助手&lt;/span&gt;&lt;/div&gt;应答准确率 &amp;gt; 50%" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;LogicFlow答疑助手&lt;/span&gt;&lt;/div&gt;应答准确率 ~ 65%" vertex="1">
           <mxGeometry height="45" width="119" x="1824" y="2952" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;" value="指标" vertex="1">
           <mxGeometry height="30" width="18.02" x="1787.5" y="2955.5" as="geometry" />
         </mxCell>
-        <mxCell id="bigR41xMl54y1EUh4rVf-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;千帆智能助手&lt;/span&gt;&lt;/div&gt;应答准确率 &amp;gt; 30%" vertex="1">
+        <mxCell id="bigR41xMl54y1EUh4rVf-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" value="&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;千帆智能助手&lt;/span&gt;&lt;/div&gt;应答准确率 ~ 79%" vertex="1">
           <mxGeometry height="45" width="103" x="1969" y="2950.5" as="geometry" />
         </mxCell>
         <mxCell id="bigR41xMl54y1EUh4rVf-154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
@@ -635,11 +635,17 @@
         <mxCell id="COwiU1E5kzpLDdkbkf-W-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="后端写&lt;div&gt;简单工具&lt;/div&gt;" vertex="1">
           <mxGeometry height="29.5" width="83" x="1046.01" y="2709" as="geometry" />
         </mxCell>
-        <mxCell id="COwiU1E5kzpLDdkbkf-W-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="AI生成代码行数73.11K" vertex="1">
+        <mxCell id="COwiU1E5kzpLDdkbkf-W-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="AI生成代码行数46.51K" vertex="1">
           <mxGeometry height="30" width="98" x="1119" y="2969" as="geometry" />
         </mxCell>
         <mxCell id="COwiU1E5kzpLDdkbkf-W-7" edge="1" parent="1" source="bigR41xMl54y1EUh4rVf-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="bigR41xMl54y1EUh4rVf-81">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bqT1q22xZV2WNXKeJ52I-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="测试用例数 7" vertex="1">
+          <mxGeometry height="30" width="113.02" x="1529.03" y="2985.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bqT1q22xZV2WNXKeJ52I-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" value="测试用例成功率 85.7%" vertex="1">
+          <mxGeometry height="30" width="113.02" x="1658.98" y="2985.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
